@@ -1,4 +1,4 @@
-package Module02.Mod02Assignments.ArEx203;
+package Module02.Mod02Lesson.ArEx203;
 /*
 * Tyler Spurr
 * 09/12/16

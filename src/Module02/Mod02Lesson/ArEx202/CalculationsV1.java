@@ -1,55 +1,56 @@
-package Module02.Mod02Assignments.ArCal202;
+package Module02.Mod02Lesson.ArEx202;
 /*
 *
 * The Calculations class performs addition, subtraction,
 * multiplication, division, and modulus operations on integers and
 * decimals.
-*  
+*
 * FLVS 2007
 * @author Bill Jordan; A.Ross
 * @version 01/19/07; 06/24/12
 */
 
-public class CalculationsV2
+public class CalculationsV1
+
 {
 
     public static void main(String[ ] args)
+
     {
 
         // Addition
         System.out.println("Addition");
-        System.out.println( "25 + 9 = " + (25 + 9));
-        System.out.println("43.21 + 3.14 + 5.0 = " +  (43.21 + 3.14 + 5.0));
+        System.out.println( 25 + 9 );
+        System.out.println( 43.21 + 3.14 + 5.0 );
         System.out.println();
 
 
         
         // Subtraction
         System.out.println("Subtraction");
-        System.out.println("16 - 9 - 25 = " + (16 - 9 - 25));
-        System.out.println("3.14 - 5.0 = " + (3.14 - 5.0));
+        System.out.println( 16 - 9 - 25 );
+        System.out.println( 3.14 - 5.0 );
         System.out.println();
 
         
         // Multiplication
         System.out.println("Multiplication");
-        System.out.println("25 * 9 = " + (25 * 9)); 
-        System.out.println("3.14 * 5.0 * 5.0 = " + (3.14 * 5.0 * 5.0));
+        System.out.println( 25 * 9 );
+        System.out.println(3.14 * 5.0 * 5.0 );
         System.out.println();
 
         
         // Division
         System.out.println("Division");
-        System.out.println("9 / 25 = " + (9 / 25));
-        System.out.println("43.21 / 5.0 = " + (43.21 / 5.0));
+        System.out.println( 9 / 25 );
+        System.out.println( 43.21 / 5.0 );
         System.out.println();
-
 
          
         // Modulus operator
         System.out.println("Modulus");
-        System.out.println("16 % 9 = " + (16 % 9));
-        System.out.println("5.0 % 3.14 = " + (5.0 % 3.14));
+        System.out.println( 16 % 9 );
+        System.out.println( 5.0 % 3.14 );
         System.out.println();
 
 
@@ -60,7 +61,7 @@ public class CalculationsV2
 
         // 15 divided by 2.5 times -2 plus 10 / 5
       	System.out.println("15 divided by 2.5 times -2 plus 10 / 5 = " + (15/2.5 * -2 + 10/5));
-      			//The + between the equation and the statement means oncatenation, NOT addition.
+      	//The + between the equation and the statement means oncatenation, NOT addition.
       	System.out.println();
 
 
@@ -84,9 +85,11 @@ public class CalculationsV2
         
         
         //2.04 Additional double Equations
+
         
                
     }
  // end of main method
+
 }
  // end of class

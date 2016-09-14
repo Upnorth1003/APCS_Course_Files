@@ -1,4 +1,11 @@
-/** * A program to illustrate very bad Java style * FLVS 2006  **/
+package Module01.Mod01Lessons.Style106;
+/*
+*
+* A program to illustrate very bad Java style
+* * FLVS 2006
+*
+*
+*/
 public class AppearancesMatter
     {
         public static void main(String[] args)
