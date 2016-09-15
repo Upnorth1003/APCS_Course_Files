@@ -23,6 +23,16 @@ public class MeasurementConverterV1
         double miles;                   // distance in miles
         double feet;                    // distance in feet
         double feetPerMile = 5280;      //number of feet per 1 mile
+        double kilograms;                //weight in kilograms
+        double poundsPerKilogram = 2.20462; // amount of pounds in a kilogram
+        double pounds;                  //weight in pounds
+        double gallons;                 //amount in gallons
+        double litersPerGallon = 3.78541; //amount of liters in a gallon
+        double kilometers;              //distance in kilometers
+        double milesPerKilometer = .621371; //amount of miles per kilometer
+        double liters;                  //amount in liters
+        double yard;                    //distance in yards
+        double feetPerYard = 3.0;       //amount of feet in a yard
         //...finish declaring local variables here, including end of line
         //...comments doccumenting purpose of each variable
 
@@ -34,6 +44,54 @@ public class MeasurementConverterV1
 
 
         //convert miles to feet
+        miles = 3;
+        feet = miles * feetPerMile;
+        System.out.println(miles + "mi. = " + feet + "ft.");
+        System.out.println();
+
+        //miles to kilometers
+        miles = 3;
+        kilometers = miles / milesPerKilometer;
+        System.out.println(miles + "mi. = " + kilometers + "km.");
+
+        //kilometers to miles
+        kilometers = 12;
+        miles = kilometers * milesPerKilometer;
+        System.out.println(kilometers + "km. = " + miles + "mi.");
+        System.out.println();
+
+        //pounds to kilograms
+        pounds = 145;
+        kilograms = pounds / poundsPerKilogram;
+        System.out.println(pounds + "lb. = " + kilograms + "kg.");
+
+        //kilograms to pounds
+        kilograms = 100;
+        pounds = kilograms * poundsPerKilogram;
+        System.out.println(kilograms + "kg. = " + pounds + "lb.");
+        System.out.println();
+
+        //gallons to liters
+        gallons = 25;
+        liters = gallons * litersPerGallon;
+        System.out.println(gallons + "gal. = " + liters + "L");
+
+        //liters to gallons
+        liters = 26.2;
+        gallons = liters / litersPerGallon;
+        System.out.println(liters + "L. = " + gallons + "gal.");
+        System.out.println();
+
+        //My Choosing (Feet to yards)
+        feet = 23.215;
+        yard = feet / feetPerYard;
+        System.out.println(feet + "ft. = " + yard + "yds.");
+
+        //Yards into feet
+        yard = 3.5;
+        feet = yard * feetPerYard;
+        System.out.println(yard + "yrds. = " + feet + "ft.");
+
 
 
 
