@@ -1,0 +1,13 @@
+PROJECT TITLE: MeasurementConverterV1 / MeasurementConverterV1.java
+PURPOSE OF PROJECT: This program taught me using variable and declaring numbers to them
+VERSION or DATE: 09/15/16
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: It was pretty simple to do once the programming was done more than once.
+
+<-s>: I struggled with my conversions because I haven't really kept up on them
+in the past year or two.
+
+*******************************************************************************

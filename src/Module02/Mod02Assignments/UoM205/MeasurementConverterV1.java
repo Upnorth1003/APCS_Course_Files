@@ -12,8 +12,8 @@ package Module02.Mod02Assignments.UoM205;
  * @author B. Jordan
  * @version 01/19/07
  *
- * Modified by: (Student name goes here)
- * Date: (Today's date goes here)
+ * Modified by: Tyler Spurr
+ * Date: 9/15/16
  */
 public class MeasurementConverterV1
 {
@@ -36,6 +36,10 @@ public class MeasurementConverterV1
         //...finish declaring local variables here, including end of line
         //...comments doccumenting purpose of each variable
 
+        System.out.println("**************************************");
+        System.out.println("        This program converts         ");
+        System.out.println("         between measurements         ");
+        System.out.println("**************************************");
 
         //convert feet to miles
         feet = 6230;
