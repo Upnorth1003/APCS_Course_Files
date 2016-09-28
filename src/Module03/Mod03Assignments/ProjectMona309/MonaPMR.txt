@@ -1,0 +1,16 @@
+PROJECT TITLE: Mona / Mona.java
+PURPOSE OF PROJECT: Challenge program testing my ability to accept user input and
+show my knowledge of String methods
+VERSION or DATE: 09/28/16
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: It was a fun and creative project to do.
+
+<-s>: I had everything going correctly but I spent about 20 min trying to figure
+out why my days over due and payment were not coming out the the value I wanted.
+Then it hit me like a brick wall that I was adding instead of multiplying the
+numbers together.
+
+*******************************************************************************

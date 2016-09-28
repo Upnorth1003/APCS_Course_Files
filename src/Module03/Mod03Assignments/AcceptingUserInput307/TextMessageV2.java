@@ -1,19 +1,24 @@
-package Module03.Mod03Assignments.Strings306;
+package Module03.Mod03Assignments.AcceptingUserInput307;
+
+import java.util.Scanner;
 
 /**
  * Tyler Spurr
- * 9/22/2016
+ * 9/26/2016
  * Program is supposed to replace five phrases
  * with standard message abreviations.
  */
-public class TextMessageV1
+public class TextMessageV2
     {
 
         public static void main(String[] args)
             {
 
                 //initalization
-                String message = "sorry brother but i had to \nleave early because jannet \nwanted me home as early as \ni could. hope you have fun \nand talk to you later.";
+                Scanner in = new Scanner(System.in);
+                System.out.println("Please input your message into the next line! ");
+                String message = in.next();
+                message += in.nextLine();
                 String phrase1 = "sryy bro";
                 String phrase2 = "ttyl";
                 String phrase3 = "cuz the wife";
@@ -32,9 +37,9 @@ public class TextMessageV1
                 //rephrased
                 System.out.println("Rephrased Message:");
                 replaceMessage = message.replace("sorry brother", phrase1);
-                replaceMessage = replaceMessage.replace("and talk to you later", phrase2);
+                replaceMessage = replaceMessage.replace("talk to you later", phrase2);
                 replaceMessage = replaceMessage.replace("because jannet", phrase3);
-                replaceMessage = replaceMessage.replace("as early as \ni could. ", phrase4);
+                replaceMessage = replaceMessage.replace("as early as i could. ", phrase4);
                 replaceMessage = replaceMessage.replace("leave early", phrase5);
                 messageLength = replaceMessage.length();
                 System.out.println(replaceMessage);
@@ -42,7 +47,9 @@ public class TextMessageV1
                 System.out.println();
 
                 //Samples.
-                String message2 = "may we please go see mother again?";
+                System.out.println("Type another message below please!");
+                String message2 = in.next();
+                message2 += in.nextLine();
                 String replace;
                 int lengthMessage2 = message2.length();
 
@@ -50,9 +57,11 @@ public class TextMessageV1
                 //indexing
                 int index = message2.indexOf('r');
                 System.out.println("    Index of 'r' in message2:                 " + index);
+
                 //replacing
                 replace = message2.replaceAll("[o]", "0");
                 System.out.println("    Replace 'o' with 0:                       " + replace);
+
                 //substring
                 int thirdMessage2 = lengthMessage2 / 3;
                 int fourthMessage2 = (lengthMessage2 / 4);

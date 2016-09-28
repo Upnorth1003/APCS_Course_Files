@@ -1,0 +1,16 @@
+PROJECT TITLE: TextMessageV1 / TextMessageV1.java
+PURPOSE OF PROJECT: Show my understanding of how to use methods around the String literal
+VERSION or DATE: 09/21/16
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: The assignment was kinda more fun because you really had free realm of
+what you could do and type for your messages and phrases. P.S. I tried to use
+some escape codes to not make the message stretch across the screen.
+
+<-s>: The struggle was trying to figure out what to replace and when to do it
+in the code. I had to keep testing the code until I had finally figured out
+where and when the code was acceptable, due to the way I wrote it.
+
+*******************************************************************************

@@ -1,0 +1,15 @@
+PROJECT TITLE:
+CurrencyConversionV2 / CurrencyConversionV2.java
+TextMessageV2 / TextMessageV2.java
+PURPOSE OF PROJECT: Changing the programs to accept users input
+VERSION or DATE: 09/26/16
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: The assignment was very simple and an easy task to complete.
+
+<-s>: Figuring out when to input the scanner and the behind the scenes math and
+other things that need to be done in relation to where the scanner method is.
+
+*******************************************************************************
