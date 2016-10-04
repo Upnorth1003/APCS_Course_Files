@@ -8,9 +8,11 @@ public class scratchCode
 
         public static void main(String[] args)
             {
+                String str = "Computer Science";
+                int a = str.indexOf("sci");
 
-                System.out.println('8' + '2');
-                System.out.println("128" + "32");
+
+                System.out.print(a);
 
             }
 

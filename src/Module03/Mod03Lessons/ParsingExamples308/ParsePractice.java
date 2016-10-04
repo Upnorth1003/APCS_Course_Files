@@ -38,7 +38,7 @@ public class ParsePractice
         userInput = in.next();                                                                  //input accepted as a String
         System.out.println("Try to add the userInput variable: " + (userInput + userInput));    //try to add the userInput variable      
         intValue = Integer.parseInt(userInput);                                                 //String parsed to a double        
-        System.out.println("Try to add the parsed input: " + (intValue + intValue));   //print answer to arithmetic expression
+        System.out.println("Try to add the parsed input: " + (intValue + intValue));            //print answer to arithmetic expression
              
     }//end of main method
 }//end of class
