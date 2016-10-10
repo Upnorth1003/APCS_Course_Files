@@ -1,15 +1,14 @@
 PROJECT TITLE: TargetZone / TargetZone.java
 PURPOSE OF PROJECT: Purpose of the program is to calculate a persons heart rate
 based on their age, resting heart rate, and heart rate after exercise.
-VERSION or DATE: 10/3/16
+VERSION or DATE: 10/10/16
 AUTHORS: Tyler Spurr
 
 **************************** P M R *********************************************
 
-<+s>: The project was fairly simple to create and implement thigns. I didn't use
-the template already given to us.
+<+s>: Fixed the problems that were in the previous version of the program.
+Made the numbers strings and then parsed them into integers and doubles.
 
-<-s>: I hope that me using else if statements is alright. I didn't find the need
-for me to have to just write three if statements.
+<-s>: Had the boolean statements missing and had the numbers entered as integers
 
 ********************************************************************************

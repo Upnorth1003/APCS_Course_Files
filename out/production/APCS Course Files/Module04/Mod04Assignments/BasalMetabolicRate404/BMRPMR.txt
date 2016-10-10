@@ -10,6 +10,6 @@ AUTHORS: Tyler Spurr
 used the correct variables this time in the program.
 
 <-s>: I did not find anything difficult with the project it was pretty simple
-and straight forward. Didvnot have any troubles while making the program.
+and straight forward. Did not have any troubles while making the program.
 
 ********************************************************************************

@@ -1,0 +1,17 @@
+PROJECT TITLE: BMI / BMI.java
+PURPOSE OF PROJECT: Write a program to calculate Body Mass Index (BMI) given a
+person’s height and weight.
+VERSION or DATE: 10/5/16
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: The project was fairly simple to make as the last one.The if else if
+statements were not hard to grasp. But I was wondering if you are wanting us to
+make booleans every time or if we were allowed to enter them in the () in the if
+statement.
+
+<-s>: As usual the only thing that I struggled with was the conversion math and
+me trying to figure out if I needed to multiply or divide.
+
+********************************************************************************
