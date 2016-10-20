@@ -1,0 +1,13 @@
+PROJECT TITLE: PopulationRatio / PopulationRatio.java
+PURPOSE OF PROJECT: Calculation of males and females in situations
+that involve the male to female ration of US
+VERSION or DATE: 10/18/16
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: Project was simple to make and had no problems.
+
+<-s>: There was nothing difficult about making the program for the assignment.
+
+********************************************************************************

@@ -1,0 +1,16 @@
+PROJECT TITLE: TDEE / TDEE.java
+PURPOSE OF PROJECT: Program to calculate the Total Daily Energy Expenditure
+VERSION or DATE: 10/11/16
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: The project was easy to wrap around and figure out.
+
+<-s>: I think we were supposed to use the && || statements in the if conditions,
+but I thought and found that it was more organized by differentiating by if it
+was male or female then going into if the user inputted the correct thing or not.
+Instead of doing if statements with the condition to find the M/F and the choice
+from the menu.
+
+********************************************************************************

@@ -1,0 +1,13 @@
+PROJECT TITLE: WellnessMenu / WellnessMenu.java
+PURPOSE OF PROJECT: Prompts user to select a category and tests the menu structure.
+VERSION or DATE: 10/10/16
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: The project was fairly simple to create and implement things. Had no issues
+at all with the program or creating it.
+
+<-s>: Didn't have any negative things or nothing was hard to figure out.
+
+********************************************************************************

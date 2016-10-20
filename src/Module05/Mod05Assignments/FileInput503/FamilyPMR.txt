@@ -1,0 +1,15 @@
+PROJECT TITLE: Family \ Family.java
+PURPOSE OF PROJECT: Percent of Families with boy boy, boy girl, and girl girl.
+VERSION or DATE: 10/20/16
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: The program made me think while trying to make it.
+
+<-s>: I didn't see the throws IOException in the lesson program so I sat here
+trying to figure that out for a hot second. It is probably the IDE that I am using
+IntellijIDEA I couldn't just have the files in the same folder I had to map
+where they were on my computer.
+
+********************************************************************************

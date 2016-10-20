@@ -1,0 +1,14 @@
+PROJECT TITLE: GuessingGameV1 & GuessingGameV2 \ GuessingGameV1.jave & GuessingGameV2.java
+PURPOSE OF PROJECT: Guess numbers through a range
+VERSION or DATE: 10/19/16
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: The programs.... I actually had fun making them.
+
+<-s>: In the second program I wanted it so that the range was not a set amount of
+numbers away from the actual number, but in the end I decided that it was a bunch
+of work that did not need to be done.
+
+********************************************************************************
