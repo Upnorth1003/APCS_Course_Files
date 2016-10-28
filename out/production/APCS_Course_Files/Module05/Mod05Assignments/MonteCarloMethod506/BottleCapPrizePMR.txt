@@ -1,0 +1,16 @@
+PROJECT TITLE: BottleCapPrize \ BottleCapPrize.txt
+PURPOSE OF PROJECT: Calculate the average of bottles needed to open for a winning
+cap
+VERSION or DATE: 10/27/16
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: The program was interesting and I had to go back and really think about my
+basic math skills.
+
+<-s>: The close files i had a hard time figuring out where they needed to go. I
+had to look back at some old programs to figure out what was needed. I probably
+didn't do it the best way but I tried my best.
+
+********************************************************************************

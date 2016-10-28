@@ -1,0 +1,14 @@
+PROJECT TITLE: Lottery / Lottery.java
+                                                                                                                                                                                                                                                PURPOSE OF PROJECT: Use for loops to play a lottery game.
+                                                                                                                                                                                                                                                VERSION or DATE: 10/24/16
+                                                                                                                                                                                                                                                AUTHORS: Tyler Spurr
+
+                                                                                                                                                                                                                                                **************************** P M R *********************************************
+
+                                                                                                                                                                                                                                                <+s>: Had to go look back at some notes to remember how to get an Integer to a
+                                                                                                                                                                                                                                                string.
+
+                                                                                                                                                                                                                                                <-s>: The program took me a minute to wrap my head around. I think that I did
+                                                                                                                                                                                                                                                it the correct way. This is the way that made the most sense to me.
+
+                                                                                                                                                                                                                                                ********************************************************************************

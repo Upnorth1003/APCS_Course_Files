@@ -16,7 +16,7 @@ public class Family
             {
 
                 String token;
-                File fileName = new File("test1.txt");
+                File fileName = new File("D:\\Repositories\\APCS_Course_Files\\src\\Module05\\Mod05Assignments\\FileInput503\\MaleFemaleInFamily.txt");
                 Scanner inFile = new Scanner(fileName);
 
                 int twoBoys = 0;
@@ -27,20 +27,13 @@ public class Family
                 {
                     token = inFile.nextLine();
 
-                    if (token.equalsIgnoreCase("BB"))
-                    {
-                        twoBoys++;
+                    if (token.equalsIgnoreCase("BB")) {
 
-                    }else if (token.equalsIgnoreCase("GG"))
-                    {
+                    } else if (token.equalsIgnoreCase("GG")) {                        twoBoys++;
+
                         twoGirls++;
 
-                    }else if (token.equalsIgnoreCase("BG"))
-                    {
-                        boyGirl++;
-
-                    }else if (token.equalsIgnoreCase("GB"))
-                    {
+                    } else if (token.equalsIgnoreCase("BG") || token.equalsIgnoreCase("GB")) {
                         boyGirl++;
                     }
                 }

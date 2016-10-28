@@ -1,0 +1,14 @@
+PROJECT TITLE: DiceProbability / DiceProbability.java
+PURPOSE OF PROJECT: calculate the percentage of matches in rolling dice with
+different faces.
+VERSION or DATE: 10/26/16
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: The given program information was nice with the assignment.
+
+<-s>: Took me a while to figure out where the match = 0; went and when to put
+the probability calculation and print out.
+
+********************************************************************************
