@@ -30,12 +30,12 @@ public class Lottery
 
             lotteryNum = Integer.toString(oneN) + Integer.toString(twoN) + Integer.toString(threeN);
             String frontTwoL = lotteryNum.substring(0, 2);
-            String backTwoL = lotteryNum.substring(2, 3);
+            String backTwoL = lotteryNum.substring(1, 3);
 
             System.out.print("Enter a 3 didget number(ex. 123): ");
             userGuess = input.next();
             String frontTwoU = userGuess.substring(0, 2);
-            String backTwoU = userGuess.substring(2, 3);
+            String backTwoU = userGuess.substring(1, 3);
 
             if (frontTwoL.equals(frontTwoU) && backTwoL.equals(backTwoU))
             {
