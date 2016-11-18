@@ -39,7 +39,7 @@ public class BMI
 
                 double weightKg = weightLb / 2.20462;
 
-                System.out.println("Weight(kg): " + weightKg);
+                System.out.println("WeightOnPlanetsV1(kg): " + weightKg);
 
                 double bmi = weightKg / (heightMeters * heightMeters);
                 System.out.println("BMI: " + bmi);
@@ -51,15 +51,15 @@ public class BMI
 
                 if (overWeight){
 
-                    System.out.println("Category: Over Weight");
+                    System.out.println("Category: Over WeightOnPlanetsV1");
 
                 }else if (underWeight){
 
-                    System.out.println("Category: Under Weight");
+                    System.out.println("Category: Under WeightOnPlanetsV1");
 
                 }else if (normal){
 
-                    System.out.println("Category: Normal Weight");
+                    System.out.println("Category: Normal WeightOnPlanetsV1");
 
                 }else if (obese){
 

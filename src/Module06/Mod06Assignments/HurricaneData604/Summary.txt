@@ -1,0 +1,9 @@
+Average               	 2           963            	 105   
+Maximum               	 5           1002           	 173   
+Minimum               	 1           882            	 75    
+
+Number in Category 1 :  26
+Number in Category 2 :  11
+Number in Category 3 :  14
+Number in Category 4 :  4
+Number in Category 5 :  4

@@ -1,0 +1,14 @@
+PROJECT TITLE: AnnualClimate2 / AnnualClimate2.java
+PURPOSE OF PROJECT: Use arrays and converting methods and formatting output
+VERSION or DATE: 11/6/16
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: Program was really simple to make.
+
+<-s>: Only issue I had was when I tried to multiply the F temperatures by 5/9
+it wasn't working because I had it in () but then later I figured it out and
+fixed the problem.
+
+********************************************************************************

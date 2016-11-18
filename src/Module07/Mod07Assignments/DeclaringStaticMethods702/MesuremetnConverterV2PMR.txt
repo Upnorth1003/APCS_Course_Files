@@ -1,0 +1,13 @@
+PROJECT TITLE: MeasurementConverterV2 \\ MeasurementConverterV2.java
+PURPOSE OF PROJECT: This program converts to and from English and metric
+units of measure.
+VERSION or DATE: 11/15/16
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: Program was super easy to make
+
+<-s>: I had no issues in making the program or executing it.
+
+********************************************************************************

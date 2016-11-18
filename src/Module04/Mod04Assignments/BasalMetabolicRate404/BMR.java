@@ -27,7 +27,7 @@ public class BMR
                 System.out.print("Height in inches: ");
                 int heightIn = in.nextInt();
 
-                System.out.print("Weight in Pounds: ");
+                System.out.print("WeightOnPlanetsV1 in Pounds: ");
                 int weightLb = in.nextInt();
 
                 System.out.println();
@@ -42,7 +42,7 @@ public class BMR
                 System.out.println("Name: " + name);
                 System.out.println("Gender: " + gender);
                 System.out.println("Age: " + age);
-                System.out.println("Weight (kg); " + weightKg);
+                System.out.println("WeightOnPlanetsV1 (kg); " + weightKg);
                 System.out.println("Height (cm): " + heightCm);
 
                 if(men) {

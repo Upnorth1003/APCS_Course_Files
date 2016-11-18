@@ -1,0 +1,15 @@
+PROJECT TITLE: Hurricanes2 \ Hurricanes2.java
+PURPOSE OF PROJECT: Use arrays and printf statements and a bunch of other stuff
+ to print out a chart of hurricanes from 1980 - 2006
+VERSION or DATE: 11/9/16
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: Program reminded me how to use things that I haven't used in a while.
+
+<-s>: Probably didn't do something right considering that I didn't use a for
+each loop in the program. I couldn't find a good spot to use one in but other
+than that I think the program worked out pretty well.
+
+********************************************************************************

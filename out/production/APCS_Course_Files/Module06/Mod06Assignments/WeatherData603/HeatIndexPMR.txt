@@ -1,0 +1,16 @@
+PROJECT TITLE: HeatIndex \ HeatIndex.java
+PURPOSE OF PROJECT: Use arrays and for-each loops to determine heat index
+in West Keys, Florida.
+VERSION or DATE: 11/6/16
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: Program was pretty straight forward.
+
+<-s>: My heat index output does not match what the example shows in the assignment
+instructions. The equation is correct for the HeatIndex. I tried looking for
+something that would need to be a double and is an integer but had no luck
+in fixing the problem.
+
+********************************************************************************
