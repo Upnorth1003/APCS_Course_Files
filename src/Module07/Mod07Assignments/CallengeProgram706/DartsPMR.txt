@@ -1,0 +1,15 @@
+PROJECT TITLE: Darts \\ Darts.java
+PURPOSE OF PROJECT: Estimate the number for pi on a circle, using dart method.
+VERSION or DATE: 11/20/16
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: Program ran fine when I did not use the top down method and had everything
+in the main method. Then I broke the program into pieces and.....
+
+<-s>: I had figured out what the problem was. Then math in one of the methods
+did not like the () that I had placed around it. It kept returning an Integer
+of 0, so that is why it was not working for me.
+
+********************************************************************************

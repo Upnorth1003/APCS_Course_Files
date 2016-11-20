@@ -1,0 +1,14 @@
+PROJECT TITLE: Darts \\ Darts.java
+PURPOSE OF PROJECT: Estimate the number for pi on a circle, using dart method.
+VERSION or DATE: 11/20/16
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: Program ran fine when I did not use the top down method and had everything
+in the main method. Then I broke the program into pieces and.....
+
+<-s>: Just struggled a little wrapping my head around the, when to need and
+array and when not to need an array double with the other methods.
+
+********************************************************************************

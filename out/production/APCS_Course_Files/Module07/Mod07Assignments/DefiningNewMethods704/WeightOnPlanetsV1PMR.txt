@@ -1,13 +1,15 @@
-PROJECT TITLE: MeasurementConverterV2 \\ MeasurementConverterV2.java
-PURPOSE OF PROJECT: This program converts to and from English and metric
-units of measure.
+PROJECT TITLE: WeightOnPlanetsV1 & Gravity \\ WeightOnPlanetsV1.java & Gravity.java
+PURPOSE OF PROJECT: The program gets gravity on a planet and then calculates
+what your weight would be on that specific planet.
 VERSION or DATE: 11/15/16
 AUTHORS: Tyler Spurr
 
 **************************** P M R *********************************************
 
-<+s>: Program was super easy to make
+<+s>: Program was pretty fun. Files were not in the same folder so had to copy
+path to get it to read.
 
-<-s>: I had no issues in making the program or executing it.
+<-s>: Just struggled a little wrapping my head around the, when to need and
+array and when not to need an array double with the other methods.
 
 ********************************************************************************
