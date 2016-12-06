@@ -35,7 +35,7 @@ public class WeightOnPlanetsV1
 			double[] newWeight = new double[9];
 			for (int i= 0; i < mass.length; i++)
 				{
-					newWeight[i] = (weight / 9.79) * gravity[i];
+					newWeight[i] = weight / 9.79 * gravity[i];
 				}
 
 			return newWeight;

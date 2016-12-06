@@ -1,0 +1,14 @@
+class initialization
+
+default constructor
+
+calculate distance method
+calculate mpg method
+
+main method
+    initiate car1 as an object
+    variables initialized
+
+    car1 calcDistance
+    car1 calcMPG
+    car1 printResults

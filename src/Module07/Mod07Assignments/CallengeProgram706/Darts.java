@@ -41,6 +41,7 @@ public class Darts
             {
                 for (int i = 0; i < trials.length; i++)
                         System.out.println("Trial [" + i + "}: pi = " + trials[i]);
+                System.out.println("Estimate of Pi = ");
             }
 
         public static void main(String args[])
@@ -51,6 +52,7 @@ public class Darts
                 int darts = in.nextInt();
 
                 double[] trials = getTrials(darts);
+                //estimatePi = getEstimate;
                 printResults(trials);
 
             }

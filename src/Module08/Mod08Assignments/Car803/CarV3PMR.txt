@@ -1,0 +1,12 @@
+PROJECT TITLE: CarV3 \\ CarV3.java
+PURPOSE OF PROJECT: Program is intended to calculate MPG and the distance.
+VERSION or DATE: 11/30/16
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: Program was pretty easy to make.
+
+<-s>: I originally made it all arrays because I was gonna print out a chart
+
+********************************************************************************

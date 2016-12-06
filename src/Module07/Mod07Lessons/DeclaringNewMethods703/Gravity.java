@@ -18,7 +18,7 @@ public class Gravity
 	{
 		// fill in code here
 		// The formula to calculate gravity is:
-		return (6.67E-17 * mass) / Math.pow(radius,2);
+		return 6.67E-17 * mass / Math.pow(radius,2);
 		// 6.67E-17 times the massOfPlanet divided by the radius of the planet squared
 
 	}
