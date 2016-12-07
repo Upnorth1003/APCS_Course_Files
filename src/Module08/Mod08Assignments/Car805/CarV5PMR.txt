@@ -1,0 +1,13 @@
+PROJECT TITLE: CarV5 \\ CarV5.java
+PURPOSE OF PROJECT: Same thing as CarV3 but using different methods of declaring variables.
+VERSION or DATE: 12/6/16
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: Program was pretty easy to make.
+
+<-s>: Figuring out what was going on and what needed to be replaced and what
+did not need to be replaced.
+
+********************************************************************************
