@@ -1,0 +1,14 @@
+PROJECT TITLE: CarV7Tester \\ CarV7Tester.java
+PURPOSE OF PROJECT: calculates variables for CarV7Tester.java
+VERSION or DATE: 12/7/16
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: Program was pretty easy to re-make.
+
+<-s>: I had decided to do away with trying to initialize all the variables with
+all the other cars, so I just had the CarV7.java calculate all the variables and
+store them so it was less hard coding I had to do.
+
+********************************************************************************
