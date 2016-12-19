@@ -1,0 +1,15 @@
+PROJECT TITLE: AnnualFuelUseTester \\ AnnualFuelUseTester.java
+PURPOSE OF PROJECT: Calculates Mins and Maxs, Totals, and Annual Projections
+VERSION or DATE: 12/12/16
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: The program was pretty simple to make.
+
+<-s>: I feel like I had too much in the main program but I couldn't think of a
+way to get the AnnualFuelUse file to calculate min and max because it couldn't
+read through the array itself. So I hope that I did it correctly. The print out
+is a little different because I like to have more exact numbers.
+
+********************************************************************************

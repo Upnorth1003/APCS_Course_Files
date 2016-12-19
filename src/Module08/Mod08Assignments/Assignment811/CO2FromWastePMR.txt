@@ -1,0 +1,14 @@
+PROJECT TITLE: CO2FromWasteTester \\ CO2FromWasteTester.java
+PURPOSE OF PROJECT: Calculate the CO2 from household waste 8.11
+VERSION or DATE: 12/15/16
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: The program was pretty simple to understand with the already half made one
+on the website.
+
+<-s>: It was easy to follow what was going on, but I think if I had to do it
+myself I would have done a few things differently.
+
+********************************************************************************

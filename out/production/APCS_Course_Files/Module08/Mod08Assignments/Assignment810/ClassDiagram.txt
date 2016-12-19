@@ -1,0 +1,12 @@
+//create object CO2
+//create monthlyBill arrayList
+//create monthlyPrice arrayList
+
+    //add values to monthlyBill
+    //add values to monthlyPrice
+
+    //Calculate average monthlyBill/Price
+
+    //Calculate Emissions
+
+    //Print out in nice format

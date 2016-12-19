@@ -6,6 +6,7 @@ import static java.lang.Integer.MIN_VALUE;
 /**
  * Tyler
  * 12/11/2016
+ * Calculates Mins and Maxs, Totals, and Annual Projections
  */
 public class AnnualFuelUseTester
     {
@@ -74,19 +75,23 @@ public class AnnualFuelUseTester
                 double annualGallons = averageGallons * annualFilling;
                     //MPG
                 double avergeMPG = mpgSum / fillUp.length;
-                double annualMPG = avergeMPG * annualFilling;
                     //Cost
                 double averageCost = costSum / fillUp.length;
                 double annualCost = averageCost * annualFilling;
 
 
                 //Printing Everything out
-                System.out.printf("%s %s %s %s %s %s %s %s %s\n", "Fill Up", "Days", "Start Miles", "End Miles", "Distance", "Gallons Used", "MPG", "Price", "Cost");
+                System.out.printf("%-8s %4s %13s %12s %10s %14s %5s %8s %6s\n",
+                        "Fill Up", "Days", "Start Miles", "End Miles", "Distance", "Gallons Used", "MPG", "Price", "Cost");
                 for (int i = 0; i < fillUp.length; i++)
                     {
                         fillUp[i].printLine(i+1);
                     }
-
+                System.out.println();
+                System.out.printf("%s %39d %24.2f %7.3f\n", "Minimum:", minDistance, minMPG, minPrice);
+                System.out.printf("%s %39d %24.2f %7.3f\n\n", "Maximum:", maxDistance, maxMPG, maxPrice);
+                System.out.printf("%s %40d %14.2f %25.2f\n", "Totals:", distSum, galSum, costSum);
+                System.out.printf("%s %28.0f %14.2f %9.2f %15.2f\n", "Annual Projections:", annualDist, annualGallons, avergeMPG, annualCost);
 
 
             }

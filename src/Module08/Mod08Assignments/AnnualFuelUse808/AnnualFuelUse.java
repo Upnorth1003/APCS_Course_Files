@@ -3,6 +3,7 @@ package Module08.Mod08Assignments.AnnualFuelUse808;
 /**
  * Tyler
  * 12/11/2016
+ * Sub program to call variables and calculate variables within the array.
  */
 public class AnnualFuelUse
     {
@@ -66,7 +67,8 @@ public class AnnualFuelUse
 
         public void printLine(int fillUp)
             {
-                System.out.printf("%d %d %d %d %d %f %f %f %f\n", fillUp, myDay, mySM, myEM, myDis, myGU, myMPG, myPPG, myCost);
+                System.out.printf("%4d %7d %12d %12d %9d %14.3f %9.2f %7.3f %7.2f\n",
+                        fillUp, myDay, mySM, myEM, myDis, myGU, myMPG, myPPG, myCost);
             }
 
 

@@ -1,0 +1,13 @@
+PROJECT TITLE: CO2FromElectricityTester \\ CO2FromElectricityTester.java
+PURPOSE OF PROJECT: Calculate yearly CO2 emissions from electricity 8.10
+VERSION or DATE: 12/14/16
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: The program was pretty simple to make.
+
+<-s>: Nothing very hard. It was nice to understand and be able to see what is
+going on in the program and see it from a basic structure.
+
+********************************************************************************
