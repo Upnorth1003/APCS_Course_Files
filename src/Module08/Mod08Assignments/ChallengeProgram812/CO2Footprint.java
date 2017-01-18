@@ -1,18 +1,18 @@
 package Module08.Mod08Assignments.ChallengeProgram812;
 
 /**
- * @author Tyler Spuurr
- * @version 12/15/2016
+ * @author Tyler Spurr
+ * @version 12/19/2016
  * @purpose To calculate my personal CO2 waste emissions.
  */
 public class CO2Footprint
     {
         private int myLights, myNumOfPeople;
-        private double myAGU, myAEB, myAEP, myEmissions, myNetEmissions, myReduction;
+        private double myAGU, myAEB, myAEP, myEmissions, myNetEmissions,
+                myReduction, myLightReduction, myElecPolution, myGasPolution;
         private boolean myRPa, myRPl, myRG, myRC;
 
         /**
-         *
          * @param annualGasUsed gass usedwithin a year
          * @param averageElecBill average monthly electricity bill cost
          * @param averageElecPrice average monthly price for electricity
@@ -37,12 +37,20 @@ public class CO2Footprint
             }
 
         /**
-         *
+         * @return the energy reduction by replacing a bulb
+         */
+        public void calcBulbReduction()
+            {
+                myLightReduction =  myLights * 1.37 * 73;
+            }
+
+        /**
          * @return the emission of CO2 from electricity
          */
-        public double calcElectricityCO2 ()
+
+        public void calcElectricityCO2 ()
             {
-                return myAEB / myAEP * 1.37 * 12;
+                myElecPolution =  myAEB / myAEP * 1.37 * 12;
             }
 
         /**
@@ -70,37 +78,29 @@ public class CO2Footprint
                 if (myRC)
                     myReduction += (165.8 * myNumOfPeople);
             }
+        /**
+         * @return the emission the car produces per year (in pounds)
+         */
+        public void polutionFromGas()
+            {
+                myGasPolution =  myAGU * 8.78E-3 * 2000;
+            }
 
         /**
          * Mutator method to calculate the net emissions (no paramters)
          */
         public void calcNetWasteReduction()
             {
-                myNetEmissions = myEmissions - myReduction;
+                myNetEmissions = (myEmissions + myGasPolution + myElecPolution) - myReduction;
             }
 
         /**
-         * Getter method to return the total emissions (no paramters)
+         * Method to print out varables
          */
-        public double getEmissions()
+        public void printOut()
             {
-                return myEmissions;
-            }
-
-        /**
-         * Getter method to return the reduction amount (no paramters)
-         */
-        public double getReduction()
-            {
-                return myReduction;
-            }
-
-        /**
-         * Getter method to return the net emissions (no paramters)
-         */
-        public double getNetEmissions()
-            {
-                return myNetEmissions;
+                System.out.printf("| %-9.2f |  %10.2f   | %1.2f | %10.2f   |  %8.2f   |  %10.2f     |\n", myGasPolution, myElecPolution,
+                        myEmissions, myReduction, myLightReduction, myNetEmissions);
             }
 
     }

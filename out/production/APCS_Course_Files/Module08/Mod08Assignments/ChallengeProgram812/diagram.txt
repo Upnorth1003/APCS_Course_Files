@@ -1,0 +1,21 @@
+//ArrayList ofObjects of individuals
+//Header part of the printout
+    //for each statement
+        //Bulb Reduction
+        //ElectricCO2
+        //GrossWasteEmissions
+        //Waste Reduction
+        //Net Waste Reduction
+        //Gas pollution
+        //print out of information for spot on index
+
+
+
+//Constructor of the Object
+    //Bulb Reduction calc
+    //Electric CO2pollution
+    //Gross Waste Emission
+    //Waste Reduction calc
+    //gas pollution calc
+    //calcNetWaste reduction
+    //print out

@@ -1,0 +1,15 @@
+PROJECT TITLE: CO2FootprintTester \\ CO2FootprintTester.java
+PURPOSE OF PROJECT: Calculates the CO@ footprint of someone, in the
+arraylist of individuals
+VERSION or DATE: 12/19/16
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: The program was pretty easy to make, but had to look back at a few programs
+to put some pieces together
+
+<-s>: Had no real issues except for the formatting. It is just an issue to sit
+down and figure out aligning everything.
+
+********************************************************************************
