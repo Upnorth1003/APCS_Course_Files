@@ -1,0 +1,15 @@
+Q1: The programmer should get the credit for the piece of computer art.
+The reason is because the programmer is the one who had written the code
+that was executed to create the art made by the computer.
+
+Plan: I would plan the code out so that it would pick random numbers and
+those would be the starting point. Then lines would be drawn, if numbers are
+negative then the lines get drawn horizontal. Then if numbers are positive the
+lines get drawn vertical. Then random coordinates are generated and then the box
+surrounding it get colored in and if the box is already colored it skips and
+then trys again. It stops when certain conditions, like number of lines made and
+boxes colored based on random numbers generated a certain amount of time.
+
+PMR:
+Not a usual PMR but the assignment is an interesting take to have to start
+learning recursion. I had to really think about how I wanted the code to execute.
