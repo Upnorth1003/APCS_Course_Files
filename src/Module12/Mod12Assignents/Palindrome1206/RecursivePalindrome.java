@@ -8,38 +8,41 @@ package Module12.Mod12Assignents.Palindrome1206;
 public class RecursivePalindrome
     {
 
-        public char getFirst(String phrase)
-            {
-                return phrase.charAt(0);
-            }
 
-        public char getLast(String phrase)
-            {
-                int end = phrase.length();
-                return phrase.charAt(end - 1);
-            }
-
-        public String tester(String phrase)
+        public String tester(String phrase, int beginning, int end)
             {
                 phrase = helper(phrase);
+                char[] temp = phrase.toCharArray();
+                System.out.println(phrase);
 
-                boolean test = getFirst(phrase) == getLast(phrase);
+                boolean test = phrase.charAt(beginning) == phrase.charAt(end);
+                System.out.println(test + "y");
 
+                if ( temp.length <= 1 )
+                    {
+
+                        System.out.println("true2");
+                        return "True";
+
+                    }
                 if (test)
                     {
-                        char[] temp = phrase.toCharArray();
-                        temp[0] = 0;
-                        temp[temp.length - 1] = 0;
+
+                        System.out.println(temp[beginning]);
+                        temp[beginning] = 0;
+
+                        System.out.println(temp[end]);
+                        temp[end] = 0;
+
                         String phraseRedone = String.valueOf(temp);
 
-                        return tester(phraseRedone);
+                        System.out.println(phrase);
+                        return tester(phraseRedone, beginning + 1, end - 1);
 
-                    }else if ((phrase.length() == 1 ) || (phrase.length() == 2) )
-                    {
-                        return "Done";
                     }else
                     {
-                        return "No";
+                        System.out.println("false");
+                        return "false";
                     }
 
             }
@@ -58,7 +61,6 @@ public class RecursivePalindrome
 
                 phrase = String.valueOf(temp);
                 phrase = phrase.toLowerCase();
-                System.out.println(phrase);
 
                 return phrase;
 

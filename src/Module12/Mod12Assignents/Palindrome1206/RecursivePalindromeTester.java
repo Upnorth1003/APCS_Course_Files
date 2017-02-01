@@ -20,9 +20,12 @@ public class RecursivePalindromeTester
                 System.out.println("Enter word or phrase to test:");
                 String input = in.nextLine();
 
+                boolean testing = phrase.tester(input, 0 , input.length() -1).equalsIgnoreCase("true") ;
+
+
                 while (!input.equalsIgnoreCase("q"))
                     {
-                        if (phrase.tester(input).equals("Done"))
+                        if (testing)
                             System.out.println("\nYour word/phrase is a Palindrome!");
                         else
                             System.out.println("\nYour word/phrase is not a Palindrome! :(");
@@ -31,6 +34,9 @@ public class RecursivePalindromeTester
                         System.out.println("Enter word or phrase to test:");
                         input = in.nextLine();
                     }
+
+
+                System.out.println("\nGoodbye");
             }
 
     }
