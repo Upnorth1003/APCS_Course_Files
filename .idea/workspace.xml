@@ -6,17 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f95992f1-a316-4608-85bd-e45cfa964df7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module12/Mod12Assignents/MysteryProject1207/12_07 Blue Segment _2.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module12/Mod12Assignents/MysteryProject1207/Worksheet2.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module12/Mod12Assignents/ChallengeExam1208/PrimeNumbers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursicePalindromeTesterPMR.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module12/Mod12Assignents/scratch.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module12/Mod12Assignents/Palindrome1206/RecursivePalindrome.class" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module12/Mod12Assignents/Palindrome1206/RecursivePalindrome.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module12/Mod12Assignents/Palindrome1206/RecursivePalindromeTester.class" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module12/Mod12Assignents/Palindrome1206/RecursivePalindromeTester.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindrome.java" afterPath="$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindrome.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindromeTester.java" afterPath="$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindromeTester.java" />
     </list>
     <ignored path="APCS Course Files.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,21 +30,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="PrimeNumbers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/ChallengeExam1208/PrimeNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1386">
-              <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="RecursivePalindrome.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="891">
-              <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+            <state relative-caret-position="825">
+              <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -60,22 +43,9 @@
       <file leaf-file-name="RecursivePalindromeTester.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindromeTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="627">
+              <caret line="22" column="56" lean-forward="false" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scratch.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/scratch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding>
-                <element signature="e#180#181#0" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -141,7 +111,6 @@
         <option value="$PROJECT_DIR$/src/Module12/Mod12Assignents/Recursion1204/PiecewisePMR.txt" />
         <option value="$PROJECT_DIR$/src/Module12/Mod12Assignents/Fibonacci1205/FibonacciNumbers.java" />
         <option value="$PROJECT_DIR$/src/Module12/Mod12Assignents/Fibonacci1205/FibonacciNumbersPMR.txt" />
-        <option value="$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindromeTester.java" />
         <option value="$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursicePalindromeTesterPMR.txt" />
         <option value="$PROJECT_DIR$/src/Module12/Mod12Assignents/ChallengeExam1208/PasswordGeneratorV2.java" />
         <option value="$PROJECT_DIR$/src/Module12/Mod12Assignents/ChallengeExam1208/PasswordV2.java" />
@@ -150,6 +119,7 @@
         <option value="$PROJECT_DIR$/src/Module12/Mod12Assignents/ChallengeExam1208/CookieJar.java" />
         <option value="$PROJECT_DIR$/src/Module12/Mod12Assignents/scratch.java" />
         <option value="$PROJECT_DIR$/src/Module12/Mod12Assignents/ChallengeExam1208/PrimeNumbers.java" />
+        <option value="$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindromeTester.java" />
         <option value="$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindrome.java" />
       </list>
     </option>
@@ -220,8 +190,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -312,6 +280,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -763,6 +733,70 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/ChallengeExam1208/PrimeNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindromeTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/scratch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/ChallengeExam1208/PrimeNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindromeTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/scratch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/ChallengeExam1208/PrimeNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
@@ -856,41 +890,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/scratch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="363">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/ChallengeExam1208/PrimeNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1386">
-          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        <state relative-caret-position="1154">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindromeTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="627">
+          <caret line="22" column="56" lean-forward="false" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+        <state relative-caret-position="825">
+          <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
           <folding />
         </state>
       </provider>

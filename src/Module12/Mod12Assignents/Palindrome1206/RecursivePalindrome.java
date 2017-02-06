@@ -11,37 +11,29 @@ public class RecursivePalindrome
 
         public String tester(String phrase, int beginning, int end)
             {
-                phrase = helper(phrase);
-                char[] temp = phrase.toCharArray();
-                System.out.println(phrase);
+                String phrase2 = helper(phrase);
+                System.out.println(phrase2);
 
-                boolean test = phrase.charAt(beginning) == phrase.charAt(end);
-                System.out.println(test + "y");
+                boolean test = phrase2.substring(beginning, beginning + 1).equals(phrase2.substring(end, end + 1));
+                System.out.println(test + " test");
 
-                if ( temp.length <= 1 )
+                System.out.println(phrase2.substring(beginning, beginning + 1) + " B");
+                System.out.println(phrase2.substring(end, end + 1) + " E");
+
+                if (end == beginning)
                     {
-
-                        System.out.println("true2");
-                        return "True";
-
+                        System.out.println("True");
+                        return "true";
                     }
+
                 if (test)
                     {
-
-                        System.out.println(temp[beginning]);
-                        temp[beginning] = 0;
-
-                        System.out.println(temp[end]);
-                        temp[end] = 0;
-
-                        String phraseRedone = String.valueOf(temp);
-
-                        System.out.println(phrase);
-                        return tester(phraseRedone, beginning + 1, end - 1);
+                        System.out.println(phrase2 + " Running again");
+                        return tester(phrase2, beginning + 1, end - 1 );
 
                     }else
                     {
-                        System.out.println("false");
+                        System.out.println("False");
                         return "false";
                     }
 
