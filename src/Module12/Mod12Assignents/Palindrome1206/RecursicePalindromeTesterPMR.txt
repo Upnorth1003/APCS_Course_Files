@@ -13,3 +13,6 @@ if statement and then  just return the false statement.
 
 ********************************************************************************
 
+I finally got it fixed, it took some looking around and asking a few online friends.
+One of them suggested using the StringBuilder class, so I went for that as it seems the
+easiest.

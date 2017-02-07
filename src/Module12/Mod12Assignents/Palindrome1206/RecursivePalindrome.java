@@ -9,32 +9,26 @@ public class RecursivePalindrome
     {
 
 
-        public String tester(String phrase, int beginning, int end)
+        public String tester(String phrase)
             {
                 String phrase2 = helper(phrase);
-                System.out.println(phrase2);
+                //System.out.println(phrase2);
 
-                boolean test = phrase2.substring(beginning, beginning + 1).equals(phrase2.substring(end, end + 1));
-                System.out.println(test + " test");
+                String phrase3 = new StringBuilder(phrase2).reverse().toString();
+                //System.out.println(phrase3);
 
-                System.out.println(phrase2.substring(beginning, beginning + 1) + " B");
-                System.out.println(phrase2.substring(end, end + 1) + " E");
-
-                if (end == beginning)
+                if (phrase2.equalsIgnoreCase(phrase3))
                     {
-                        System.out.println("True");
+                        //System.out.println("True");
                         return "true";
                     }
-
-                if (test)
+                if (!phrase2.equalsIgnoreCase(phrase3))
                     {
-                        System.out.println(phrase2 + " Running again");
-                        return tester(phrase2, beginning + 1, end - 1 );
-
+                        //System.out.println("False");
+                        return "false";
                     }else
                     {
-                        System.out.println("False");
-                        return "false";
+                        return "Oh NO";
                     }
 
             }
