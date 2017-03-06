@@ -40,8 +40,8 @@ public class CircleMeasurementsV1
         double diameter = calcDiameter(radius);
         double circumference = calcCircumference(radius);
         
-        System.out.printf("Area of Circle = %5.1f%n", area);
-        System.out.printf("Diameter of Circle = %5.1f%n", diameter);
-        System.out.printf("Circumference of Circle =  %5.1f%n", circumference);     
+        System.out.printf("Area of Circle2 = %5.1f%n", area);
+        System.out.printf("Diameter of Circle2 = %5.1f%n", diameter);
+        System.out.printf("Circumference of Circle2 =  %5.1f%n", circumference);
      }
 }

@@ -7,8 +7,8 @@ package Module08.Mod08Assignments.AnnualFuelUse808;
  */
 public class AnnualFuelUse
     {
-        private int mySM, myEM, myTotalDis, myDis, myDay;
-        private double myPPG, myGU, myMPG, myCost;
+        private int startMiles, endMiles, totalDistance, distances, days;
+        private double pricePerGallon, gallonsUsed, milesPerGallon, cost;
 
         AnnualFuelUse()
             {
@@ -17,50 +17,50 @@ public class AnnualFuelUse
 
         AnnualFuelUse(int startMiles, int endMiles, double pricePerGallon, double gallonsUsed, int days)
             {
-                mySM = startMiles;
-                myEM = endMiles;
-                myPPG = pricePerGallon;
-                myGU = gallonsUsed;
-                myDis = endMiles - startMiles;
-                myMPG = myDis / myGU;
-                myCost = myGU * myPPG;
-                myDay = days;
+                this.startMiles = startMiles;
+                this.endMiles = endMiles;
+                this.pricePerGallon = pricePerGallon;
+                this.gallonsUsed = gallonsUsed;
+                this.distances = endMiles - startMiles;
+                this.milesPerGallon = this.distances / this.gallonsUsed;
+                this.cost = this.gallonsUsed * this.pricePerGallon;
+                this.days = days;
             }
 
         public int calcDistance()
             {
-                return myEM - mySM;
+                return this.endMiles - this.startMiles;
             }
 
         public int getDays()
             {
-                return myDay;
+                return this.days;
             }
 
         public double getMPG()
             {
-                return myMPG;
+                return this.milesPerGallon;
             }
 
         public double getPPG()
             {
-                return myPPG;
+                return this.pricePerGallon;
             }
 
         public double getGallons()
             {
-                return myGU;
+                return this.gallonsUsed;
             }
 
         public double getCost()
             {
-                return myCost;
+                return this.cost;
             }
 
 
         public int calcTotalDistance(int maxDist, int minDist)
             {
-                myTotalDis = maxDist - minDist;
+                this.totalDistance = maxDist - minDist;
                 return maxDist - minDist;
             }
 
@@ -68,7 +68,7 @@ public class AnnualFuelUse
         public void printLine(int fillUp)
             {
                 System.out.printf("%4d %7d %12d %12d %9d %14.3f %9.2f %7.3f %7.2f\n",
-                        fillUp, myDay, mySM, myEM, myDis, myGU, myMPG, myPPG, myCost);
+                        fillUp, this.days, this.startMiles, this.endMiles, this.distances, this.gallonsUsed, this.milesPerGallon, this.pricePerGallon, this.cost);
             }
 
 

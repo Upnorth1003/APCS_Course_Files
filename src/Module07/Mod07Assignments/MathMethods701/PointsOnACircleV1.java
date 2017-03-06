@@ -13,7 +13,7 @@ public class PointsOnACircleV1
                 double yOne;
                 double yTwo;
 
-                System.out.println("    Points on a Circle of Radius 1.0");
+                System.out.println("    Points on a Circle2 of Radius 1.0");
                 System.out.printf("%6s %8s %12s %6s", "x1", "y1", "x1", "y2");
                 System.out.println();
                 System.out.println("---------------------------------------");

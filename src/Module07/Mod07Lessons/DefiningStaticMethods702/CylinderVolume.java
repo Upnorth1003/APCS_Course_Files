@@ -29,6 +29,6 @@ public class CylinderVolume
 
         double area = calcCircleArea(radius);
         double cylinderVol = calcCylinderVol(area, height);
-        System.out.println("Cylinder Volume = " + cylinderVol);     
+        System.out.println("Cylinder2 Volume = " + cylinderVol);
      }
 }

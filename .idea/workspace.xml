@@ -6,10 +6,99 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f95992f1-a316-4608-85bd-e45cfa964df7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module12/Mod12Assignents/MagpieLab/Magpie_Chatbot_Lab_Questions_12_09.rtf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Documents/13_05_Magpie_Chatbot_Lab_Questions.rtf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Assignments/MorseCode1402/14.02_MorseCodeChart.rtf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Documents/14.03_VirtualLectureNotes.rtf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Documents/14.05_VirtualLectureNotesPart1.rtf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Documents/14.05_VirtualLectureNotesPart2.rtf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Documents/14.06_AssignmentInstructions.rtf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Documents/14.07_VirtualLectureNotesPart1.rtf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Documents/14.07_VirtualLectureNotesPart2.rtf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module12/Mod12Assignents/MagpieLab/Magpie2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module12/Mod12Assignents/MagpieLab/MagpieRunner2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module12/Mod12Assignents/MagpieLab/StringExplorer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1301/Box.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1301/Cube.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1301/Equilateral.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1301/ExtendingClassesPMR.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1301/IsoscelesRight.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1301/Rectangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1301/TestCube.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1301/TestTriangles.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1301/Triangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1302/Forest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1302/Mountain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1302/Terrain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1302/TestTerrain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1302/TestTerrainPMR.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1302/WinterMountain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1304/Box3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1304/Cube3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1304/Rectangle3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1304/TestNew.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1304/TestNewPMR.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1305/Magpie4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1305/MagpieRunner4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Assignments/Polymorphism1303/Circle2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Assignments/Polymorphism1303/Cylinder2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Assignments/Polymorphism1303/Oval2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Assignments/Polymorphism1303/OvalCylinder2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Assignments/Polymorphism1303/TestPoly2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Assignments/Polymorphism1303/TestPoly2PMR.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Lessons/Lesson1301/Box.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Lessons/Lesson1301/Rectangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Lessons/Lesson1301/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Lessons/Lesson1302/Circle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Lessons/Lesson1302/Cylinder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Lessons/Lesson1302/Oval.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Lessons/Lesson1302/OvalCylinder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Lessons/Lesson1302/TestPoly.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Lessons/Lesson1303/Box.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Lessons/Lesson1303/Rectangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Lessons/Lesson1303/Test2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Lessons/Lesson1304/Box2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Lessons/Lesson1304/Rectangle2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Lessons/Lesson1304/Test3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module13/Mod13Lessons/Lesson1304/Test4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Assignments/Assignment1406/PrimeNUmberTesterPMR.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Assignments/Assignment1406/PrimeNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Assignments/Assignment1406/PrimeNumberTester.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Assignments/CaesarShiftCipher/CaesarShiftDecryption.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Assignments/CaesarShiftCipher/CaesarShiftEncryption.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Assignments/CaesarShiftCipher/CaesarShiftTester.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Assignments/CaesarShiftCipher/CaesarShiftTesterPMR.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/FrequencyAnalysis.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/FrequencyAnalysisTester.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/FrequencyAnalysisTesterPMR.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/ciphertext.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/plaintext.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/secretmessage.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/subset.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Assignments/MorseCode1402/MorseCode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Assignments/MorseCode1402/MorseCodeTester.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Assignments/MorseCode1402/MorseCodeTesterPMR.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Assignments/MorseCode1402/morsecode.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Lessons/ThisWorks1405/ThisDemo1aTester.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Lessons/ThisWorks1405/ThisDemo1bTester.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Lessons/ThisWorks1405/ThisDemo1cTester.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Lessons/ThisWorks1405/ThisDemo2aTester.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Lessons/ThisWorks1405/ThisDemo2bTester.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module14/Mod14Lessons/ThisWorks1405/ThisDemo2cTester.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module07/Mod07Assignments/MathMethods701/PointsOnACircleV1.class" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module07/Mod07Assignments/MathMethods701/PointsOnACircleV1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module07/Mod07Lessons/DefiningStaticMethods702/CircleMeasurementsV1.class" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module07/Mod07Lessons/DefiningStaticMethods702/CircleMeasurementsV1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module07/Mod07Lessons/DefiningStaticMethods702/CylinderVolume.class" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module07/Mod07Lessons/DefiningStaticMethods702/CylinderVolume.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module08/Mod08Assignments/AnnualFuelUse808/AnnualFuelUse.class" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module08/Mod08Assignments/AnnualFuelUse808/AnnualFuelUse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module08/Mod08Assignments/Assignment809/CO2FootprintV1.class" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module08/Mod08Assignments/Assignment809/CO2FootprintV1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module12/Mod12Assignents/Palindrome1206/RecursivePalindrome.class" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module12/Mod12Assignents/Palindrome1206/RecursivePalindrome.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module12/Mod12Assignents/scratch.class" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module12/Mod12Assignents/scratch.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursicePalindromeTesterPMR.txt" afterPath="$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursicePalindromeTesterPMR.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindrome.java" afterPath="$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindrome.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindromeTester.java" afterPath="$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindromeTester.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Module07/Mod07Assignments/MathMethods701/PointsOnACircleV1.java" afterPath="$PROJECT_DIR$/src/Module07/Mod07Assignments/MathMethods701/PointsOnACircleV1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Module07/Mod07Lessons/DefiningStaticMethods702/CircleMeasurementsV1.java" afterPath="$PROJECT_DIR$/src/Module07/Mod07Lessons/DefiningStaticMethods702/CircleMeasurementsV1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Module07/Mod07Lessons/DefiningStaticMethods702/CylinderVolume.java" afterPath="$PROJECT_DIR$/src/Module07/Mod07Lessons/DefiningStaticMethods702/CylinderVolume.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Module08/Mod08Assignments/AnnualFuelUse808/AnnualFuelUse.java" afterPath="$PROJECT_DIR$/src/Module08/Mod08Assignments/AnnualFuelUse808/AnnualFuelUse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Module08/Mod08Assignments/Assignment809/CO2FootprintV1.java" afterPath="$PROJECT_DIR$/src/Module08/Mod08Assignments/Assignment809/CO2FootprintV1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Module12/Mod12Assignents/scratch.java" afterPath="$PROJECT_DIR$/src/Module12/Mod12Assignents/scratch.java" />
     </list>
     <ignored path="APCS Course Files.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,38 +118,7 @@
     <favorites_list name="APCS Course Files" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="RecursivePalindrome.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RecursicePalindromeTesterPMR.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursicePalindromeTesterPMR.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RecursivePalindromeTester.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindromeTester.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -80,57 +138,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Module08/Mod08Lessons/Lesson809/ShapesV9a.java" />
-        <option value="$PROJECT_DIR$/src/Module08/Mod08Lessons/Lesson809/ShapesV9b.java" />
-        <option value="$PROJECT_DIR$/src/Module08/Mod08Lessons/Lesson809/ShapesV9bTester.java" />
+        <option value="$PROJECT_DIR$/src/Module13/Mod13Assignments/Polymorphism1303/OvalCylinder.java" />
+        <option value="$PROJECT_DIR$/src/Module13/Mod13Assignments/Polymorphism1303/Cylinder.java" />
+        <option value="$PROJECT_DIR$/src/Module13/Mod13Assignments/Polymorphism1303/Cylinder2.java" />
+        <option value="$PROJECT_DIR$/src/Module13/Mod13Lessons/Lesson1303/Test2.java" />
+        <option value="$PROJECT_DIR$/src/Module13/Mod13Assignments/Polymorphism1303/TestPoly2PMR.txt" />
+        <option value="$PROJECT_DIR$/src/Module13/Mod13Assignments/Polymorphism1303/TestPoly2.java" />
+        <option value="$PROJECT_DIR$/src/Module13/Mod13Lessons/Lesson1304/Rectangle2.java" />
+        <option value="$PROJECT_DIR$/src/Module13/Mod13Lessons/Lesson1304/Box2.java" />
+        <option value="$PROJECT_DIR$/src/Module13/Mod13Lessons/Lesson1304/Test3.java" />
+        <option value="$PROJECT_DIR$/src/Module13/Mod13Lessons/Lesson1304/Test4.java" />
+        <option value="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1304/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1304/Box.java" />
+        <option value="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1304/Cube.java" />
+        <option value="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1304/Rectangle3.java" />
+        <option value="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1305/MagpieRunner4.java" />
+        <option value="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1305/Magpie4.java" />
+        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/Assignment1402/morescode.txt" />
+        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/MorseCode1402/MorseCode.java" />
+        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/MorseCode1402/morsecode.txt" />
+        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/MorseCode1402/MorseCodeTester.java" />
+        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/MorseCode1402/MorseCodeTesterPMR.txt" />
+        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/CaesarShiftCipher/CaesarShiftEncryption.java" />
+        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/CaesarShiftCipher/CaesarShiftDecryption.java" />
+        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/CaesarShiftCipher/CaesarShiftTester.java" />
+        <option value="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1304/Cube3.java" />
+        <option value="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1304/Box3.java" />
+        <option value="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1304/TestNew.java" />
+        <option value="$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1304/TestNewPMR.txt" />
+        <option value="$PROJECT_DIR$/src/Module14/Mod14Lessons/ThisWorks1405/ThisDemo1aTester.java" />
+        <option value="$PROJECT_DIR$/src/Module14/Mod14Lessons/ThisWorks1405/ThisDemo1bTester.java" />
+        <option value="$PROJECT_DIR$/src/Module14/Mod14Lessons/ThisWorks1405/ThisDemo1cTester.java" />
+        <option value="$PROJECT_DIR$/src/Module14/Mod14Lessons/ThisWorks1405/ThisDemo2aTester.java" />
+        <option value="$PROJECT_DIR$/src/Module14/Mod14Lessons/ThisWorks1405/ThisDemo2bTester.java" />
+        <option value="$PROJECT_DIR$/src/Module14/Mod14Lessons/ThisWorks1405/ThisDemo2cTester.java" />
+        <option value="$PROJECT_DIR$/src/Module08/Mod08Assignments/AnnualFuelUse808/AnnualFuelUse.java" />
         <option value="$PROJECT_DIR$/src/Module08/Mod08Assignments/Assignment809/CO2FootprintV1.java" />
-        <option value="$PROJECT_DIR$/src/Module08/Mod08Assignments/Assignment809/CO2FootprintV1Tester.java" />
-        <option value="$PROJECT_DIR$/src/Module08/Mod08Assignments/Assignment809/CO2FootprintV1TesterPMR.txt" />
-        <option value="$PROJECT_DIR$/src/Module08/Mod08Lessons/ArrayList810/IntegerArrayList.java" />
-        <option value="$PROJECT_DIR$/src/Module08/Mod08Lessons/ArrayList810/StringArayList.java" />
-        <option value="$PROJECT_DIR$/src/Module08/Mod08Lessons/ArrayList810/CalculationsWithArrayLists.java" />
-        <option value="$PROJECT_DIR$/src/Module08/Mod08Assignments/Assignment810/CO2FromElectricity.java" />
-        <option value="$PROJECT_DIR$/src/Module08/Mod08Assignments/Assignment810/CO2FromElectricityTester.java" />
-        <option value="$PROJECT_DIR$/src/Module08/Mod08Assignments/Assignment810/ClassDiagram.txt" />
-        <option value="$PROJECT_DIR$/src/Module08/Mod08Assignments/Assignment810/CO2FromElectricityTesterPMR.txt" />
-        <option value="$PROJECT_DIR$/src/Module08/Mod08Lessons/ArrayList811/ShapesV11Tester.java" />
-        <option value="$PROJECT_DIR$/src/Module08/Mod08Lessons/ArrayList811/ShapesV11.java" />
-        <option value="$PROJECT_DIR$/src/Module08/Mod08Assignments/Assignment811/CO2FromWaste.java" />
-        <option value="$PROJECT_DIR$/src/Module08/Mod08Assignments/Assignment811/CO2FromWastePMR.txt" />
-        <option value="$PROJECT_DIR$/src/Module08/Mod08Assignments/Assignment811/CO2FromWasteTester.java" />
-        <option value="$PROJECT_DIR$/src/Module08/Mod08Assignments/ChallengeProgram812/Co2Footprint.java" />
-        <option value="$PROJECT_DIR$/src/Module08/Mod08Assignments/ChallengeProgram812/CO2FootprintTesterPMR.txt" />
-        <option value="$PROJECT_DIR$/src/Module08/Mod08Assignments/ChallengeProgram812/CO2Footprint.java" />
-        <option value="$PROJECT_DIR$/src/Module08/Mod08Assignments/ChallengeProgram812/CO2FootprintTester.java" />
-        <option value="$PROJECT_DIR$/src/Module08/Mod08Assignments/ChallengeProgram812/diagram.txt" />
-        <option value="$PROJECT_DIR$/src/Module09/Mod09Lessons/Test2D.java" />
-        <option value="$PROJECT_DIR$/src/Module09/Mod09Assignments/CatapultContest904/CatapultTester.java" />
-        <option value="$PROJECT_DIR$/src/Module09/Mod09Assignments/CatapultContest904/CatapultTesterPMR.txt" />
-        <option value="$PROJECT_DIR$/src/Module09/Mod09Assignments/CatapultContest904/Catapult.java" />
-        <option value="$PROJECT_DIR$/src/Module09/Mod09Assignments/scratch.java" />
-        <option value="$PROJECT_DIR$/src/Module09/Mod09Assignments/SavingsAccount.java" />
-        <option value="$PROJECT_DIR$/src/Module09/Mod09Assignments/SomeClass.java" />
-        <option value="$PROJECT_DIR$/src/Module09/Mod09Assignments/Swapper.java" />
-        <option value="$PROJECT_DIR$/src/Module09/Mod09Assignments/Tester.java" />
-        <option value="$PROJECT_DIR$/src/Module09/Mod09Assignments/RectangleStatsTesterClass.java" />
-        <option value="$PROJECT_DIR$/src/Module12/Mod12Lessons/Fractal1202/SierpinskiTriangle.java" />
-        <option value="$PROJECT_DIR$/src/Module12/Mod12Assignents/MondrianArt1202/Assginment1202.txt" />
-        <option value="$PROJECT_DIR$/src/Module12/Mod12Lessons/Recursion1203/ReverseUserInput.java" />
-        <option value="$PROJECT_DIR$/src/Module12/Mod12Lessons/Recursion1204/RecursionMethodTester.java" />
-        <option value="$PROJECT_DIR$/src/Module12/Mod12Assignents/Recursion1204/Piecewise.java" />
-        <option value="$PROJECT_DIR$/src/Module12/Mod12Assignents/Recursion1204/PiecewisePMR.txt" />
-        <option value="$PROJECT_DIR$/src/Module12/Mod12Assignents/Fibonacci1205/FibonacciNumbers.java" />
-        <option value="$PROJECT_DIR$/src/Module12/Mod12Assignents/Fibonacci1205/FibonacciNumbersPMR.txt" />
-        <option value="$PROJECT_DIR$/src/Module12/Mod12Assignents/ChallengeExam1208/PasswordGeneratorV2.java" />
-        <option value="$PROJECT_DIR$/src/Module12/Mod12Assignents/ChallengeExam1208/PasswordV2.java" />
-        <option value="$PROJECT_DIR$/src/Module12/Mod12Assignents/ChallengeExam1208/Classrrom.java" />
-        <option value="$PROJECT_DIR$/src/Module12/Mod12Assignents/ChallengeExam1208/Classroom.java" />
-        <option value="$PROJECT_DIR$/src/Module12/Mod12Assignents/ChallengeExam1208/CookieJar.java" />
+        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/Assignment1406/PrimeNumbers.java" />
+        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/Assignment1406/PrimeNumbersTester.java" />
+        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/Assignment1406/PrimeNumberTester.java" />
+        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/Assignment1406/PrimeNumber.java" />
+        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/CaesarShiftCipher/CaesarShiftTesterPMR.txt" />
+        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/Assignment1406/PrimeNUmberTesterPMR.txt" />
+        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/plaintext.txt" />
+        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/ciphertext.txt" />
+        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/subset.txt" />
+        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/plaintextfreq.txt" />
+        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/FrequencyAnalysisTester.java" />
+        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/secretmessage.txt" />
+        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/FrequencyAnalysisTesterPMR.txt" />
+        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/FrequencyAnalysis.java" />
         <option value="$PROJECT_DIR$/src/Module12/Mod12Assignents/scratch.java" />
-        <option value="$PROJECT_DIR$/src/Module12/Mod12Assignents/ChallengeExam1208/PrimeNumbers.java" />
-        <option value="$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursicePalindromeTesterPMR.txt" />
-        <option value="$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindromeTester.java" />
-        <option value="$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindrome.java" />
       </list>
     </option>
   </component>
@@ -138,10 +196,10 @@
     <scope name="Unnamed" pattern="" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-13" />
-    <option name="y" value="-13" />
-    <option name="width" value="3866" />
-    <option name="height" value="2106" />
+    <option name="x" value="1485" />
+    <option name="y" value="308" />
+    <option name="width" value="1942" />
+    <option name="height" value="2091" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -199,7 +257,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -222,76 +279,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Module12" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="APCS Course Files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Module12" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mod12Assignents" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="APCS Course Files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Module12" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mod12Assignents" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Recursion1204" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="APCS Course Files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Module12" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mod12Assignents" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Palindrome1206" />
+              <option name="myItemId" value="Module15" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -307,34 +303,36 @@
       <recent name="Module02.Mod02Lesson" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Repositories\APCS_Course_Files\src\Module14\Mod14Documents" />
+      <recent name="D:\Repositories\APCS_Course_Files\src\Module14\Mod14Assignments\Assignment1402" />
+      <recent name="D:\Repositories\APCS_Course_Files\src\Module13\Mod13Documents" />
+      <recent name="D:\Repositories\APCS_Course_Files\src\Module12\Mod12Assignents\MagpieLab" />
       <recent name="D:\Repositories\APCS_Course_Files\src\Module12\Mod12Assignents\MysteryProject1207" />
-      <recent name="D:\Repositories\APCS_Course_Files\src\Module08\Mod08Documents" />
-      <recent name="D:\Repositories\APCS_Course_Files\src\Module05\Mod05Documents" />
-      <recent name="D:\Repositories\APCS_Course_Files\src\Module02\Mod02Documents" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Module13.Mod13Assignments.Assignment1304" />
+      <recent name="Module13.Mod13Assignments.Assignment1301" />
       <recent name="Module06.Mod06Assignments.WeatherData601" />
       <recent name="Module05.Mod05Assignments.Game" />
       <recent name="Module05.Mod05Lessons.CoinFlips501" />
-      <recent name="Module03.Mod03Assignments.AcceptingUserInput307" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Repositories\APCS_Course_Files\src\Module12\Mod12Lessons\Recursion1204" />
-      <recent name="D:\Repositories\APCS_Course_Files\src\Module12\Mod12Lessons\Recursion1203" />
-      <recent name="D:\Repositories\APCS_Course_Files\src\Module12\Mod12Documents" />
-      <recent name="D:\Repositories\APCS_Course_Files\src\Module12\Mod12Lessons\Fractal1202" />
-      <recent name="D:\Repositories\APCS_Course_Files\src\Module09\Mod09Lessons" />
+      <recent name="D:\Repositories\APCS_Course_Files\src\Module14\Mod14Lessons\ThisWorks1405" />
+      <recent name="D:\Repositories\APCS_Course_Files\src\Module13\Mod13Assignments\Assignment1305" />
+      <recent name="D:\Repositories\APCS_Course_Files\src\Module13\Mod13Lessons\Lesson1304" />
+      <recent name="D:\Repositories\APCS_Course_Files\src\Module13\Mod13Assignments\Polymorphism1303" />
+      <recent name="D:\Repositories\APCS_Course_Files\src\Module13\Mod13Lessons\Lesson1303" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RecursivePalindromeTester">
-    <configuration default="false" name="Piecewise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.scratch">
+    <configuration default="false" name="ThisDemo1bTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Module12.Mod12Assignents.Recursion1204.*" />
+          <option name="PATTERN" value="Module14.Mod14Lessons.ThisWorks1405.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Module12.Mod12Assignents.Recursion1204.Piecewise" />
+      <option name="MAIN_CLASS_NAME" value="Module14.Mod14Lessons.ThisWorks1405.ThisDemo1bTester" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -347,14 +345,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="CookieJar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ThisDemo1cTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Module12.Mod12Assignents.ChallengeExam1208.*" />
+          <option name="PATTERN" value="Module14.Mod14Lessons.ThisWorks1405.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Module12.Mod12Assignents.ChallengeExam1208.CookieJar" />
+      <option name="MAIN_CLASS_NAME" value="Module14.Mod14Lessons.ThisWorks1405.ThisDemo1cTester" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -367,14 +365,34 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="PrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="PrimeNumberTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Module12.Mod12Assignents.ChallengeExam1208.*" />
+          <option name="PATTERN" value="Module14.Mod14Assignments.Assignment1406.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Module12.Mod12Assignents.ChallengeExam1208.PrimeNumbers" />
+      <option name="MAIN_CLASS_NAME" value="Module14.Mod14Assignments.Assignment1406.PrimeNumberTester" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="APCS_Course_Files" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="FrequencyAnalysisTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Module14.Mod14Assignments.FrequencyAnalysis1407.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Module14.Mod14Assignments.FrequencyAnalysis1407.FrequencyAnalysisTester" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -395,26 +413,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Module12.Mod12Assignents.scratch" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="APCS_Course_Files" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="RecursivePalindromeTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Module12.Mod12Assignents.Palindrome1206.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Module12.Mod12Assignents.Palindrome1206.RecursivePalindromeTester" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -632,19 +630,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Piecewise" />
-      <item index="1" class="java.lang.String" itemvalue="Application.CookieJar" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PrimeNumbers" />
-      <item index="3" class="java.lang.String" itemvalue="Application.scratch" />
-      <item index="4" class="java.lang.String" itemvalue="Application.RecursivePalindromeTester" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ThisDemo1bTester" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ThisDemo1cTester" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PrimeNumberTester" />
+      <item index="3" class="java.lang.String" itemvalue="Application.FrequencyAnalysisTester" />
+      <item index="4" class="java.lang.String" itemvalue="Application.scratch" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.RecursivePalindromeTester" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PrimeNumbers" />
-        <item index="2" class="java.lang.String" itemvalue="Application.scratch" />
-        <item index="3" class="java.lang.String" itemvalue="Application.CookieJar" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Piecewise" />
+        <item index="0" class="java.lang.String" itemvalue="Application.scratch" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PrimeNumberTester" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FrequencyAnalysisTester" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ThisDemo1cTester" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ThisDemo1bTester" />
       </list>
     </recent_temporary>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -686,37 +684,37 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-13" y="-13" width="3866" height="2106" extended-state="6" />
+    <frame x="1485" y="308" width="1942" height="2091" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31398416" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990807" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25382584" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34787235" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12890625" sideWeight="0.72835314" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14900427" sideWeight="0.4974656" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27922755" sideWeight="0.72835314" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14900427" sideWeight="0.4974656" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39840424" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3047046" sideWeight="0.27164686" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39756593" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3047046" sideWeight="0.27164686" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31292877" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292553" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286004" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -741,225 +739,356 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindrome.java">
+    <entry file="file://$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1301/TestCube.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="495">
+          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindromeTester.java">
+    <entry file="file://$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1302/TestTerrain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="22" column="56" lean-forward="false" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
-          <folding />
+        <state relative-caret-position="627">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindrome.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="1937">
+          <caret line="234" column="18" lean-forward="false" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindromeTester.java">
+    <entry file="file://$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1305/MagpieRunner4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="22" column="56" lean-forward="false" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
-          <folding />
+        <state relative-caret-position="51">
+          <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/ChallengeExam1208/PrimeNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1305/Magpie4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1386">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        <state relative-caret-position="2071">
+          <caret line="273" column="13" lean-forward="false" selection-start-line="273" selection-start-column="13" selection-end-line="273" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindrome.java">
+    <entry file="file://$PROJECT_DIR$/src/Module05/Mod05Assignments/FileInput503/Family.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="116">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindromeTester.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="227">
+          <caret line="430" column="0" lean-forward="false" selection-start-line="430" selection-start-column="0" selection-end-line="430" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/scratch.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/util/Objects.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="235">
+          <caret line="202" column="0" lean-forward="false" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/ChallengeExam1208/PrimeNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1301/ExtendingClassesPMR.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1386">
-          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        <state relative-caret-position="204">
+          <caret line="12" column="61" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="80" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindrome.java">
+    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/MorseCode1402/MorseCodeTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="187">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindromeTester.java">
+    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/MorseCode1402/morsecode.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="612">
+          <caret line="36" column="1" lean-forward="false" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/scratch.java">
+    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/MorseCode1402/MorseCodeTesterPMR.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
+          <caret line="11" column="51" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="80" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/ChallengeExam1208/PrimeNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/CaesarShiftCipher/CaesarShiftDecryption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1089">
+          <caret line="33" column="47" lean-forward="false" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/CaesarShiftCipher/CaesarShiftTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="71" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1304/Rectangle3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1023">
+          <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1304/Cube3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1304/Box3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module13/Mod13Lessons/Lesson1303/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module13/Mod13Lessons/Lesson1303/Box.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module13/Mod13Assignments/Polymorphism1303/TestPoly2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="57" lean-forward="false" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module13/Mod13Lessons/Lesson1303/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="24" column="37" lean-forward="false" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1302/TestTerrainPMR.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="80" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/ChallengeExam1208/CookieJar.java" />
-    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/Recursion1204/Piecewise.java">
+    <entry file="file://$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1304/TestNew.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1815">
-          <caret line="55" column="13" lean-forward="true" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="297">
+          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindrome.java">
+    <entry file="file://$PROJECT_DIR$/src/Module13/Mod13Assignments/Assignment1304/TestNewPMR.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="363">
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursicePalindromeTesterPMR.txt">
+    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Lessons/ThisWorks1405/ThisDemo2aTester.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="33">
-          <caret line="1" column="57" lean-forward="false" selection-start-line="1" selection-start-column="57" selection-end-line="1" selection-end-column="57" />
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindromeTester.java">
+    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Lessons/ThisWorks1405/ThisDemo2bTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="33">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/ChallengeExam1208/PasswordV2.java" />
-    <entry file="file://$PROJECT_DIR$/src/Module08/Mod08Lessons/ArrayList810/StringArayList.java">
+    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Lessons/ThisWorks1405/ThisDemo2cTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="33">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module08/Mod08Lessons/ArrayList810/IntegerArrayList.java">
+    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Lessons/ThisWorks1405/ThisDemo1aTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="330">
+          <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module08/Mod08Lessons/ArrayList810/CalculationsWithArrayLists.java">
+    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Lessons/ThisWorks1405/ThisDemo1bTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Lessons/ThisWorks1405/ThisDemo1cTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module08/Mod08Assignments/AnnualFuelUse808/AnnualFuelUse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="63" column="41" lean-forward="false" selection-start-line="63" selection-start-column="41" selection-end-line="63" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module08/Mod08Assignments/Assignment809/CO2FootprintV1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="41" column="41" lean-forward="false" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/ChallengeExam1208/PrimeNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/Assignment1406/PrimeNUmberTesterPMR.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/CaesarShiftCipher/CaesarShiftEncryption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="40" column="38" lean-forward="false" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/MorseCode1402/MorseCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="30" column="17" lean-forward="false" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/subset.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="73" lean-forward="false" selection-start-line="0" selection-start-column="73" selection-end-line="0" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/plaintext.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3795">
+          <caret line="115" column="0" lean-forward="true" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/ciphertext.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6159" lean-forward="false" selection-start-line="0" selection-start-column="6159" selection-end-line="0" selection-end-column="6159" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/chipertextfreq.txt" />
+    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/plaintextfreq.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/ciphertextfreq.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module05/Mod05Lessons/FileOutput506/MysteryPrintWriter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module08/Mod08Lessons/ArrayList811/ShapesV11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
           <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/ChallengeExam1208/Classroom.java" />
-    <entry file="file://$PROJECT_DIR$/src/Module05/Mod05Assignments/PasswordGenerator507/Password.java">
+    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/CaesarShiftCipher/CaesarShiftTesterPMR.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3333">
-          <caret line="102" column="32" lean-forward="false" selection-start-line="102" selection-start-column="32" selection-end-line="110" selection-end-column="37" />
+        <state relative-caret-position="363">
+          <caret line="11" column="32" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="80" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/Recursion1204/Piecewise.java">
+    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/secretmessage.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1815">
-          <caret line="55" column="13" lean-forward="false" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+        <state relative-caret-position="66">
+          <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/FrequencyAnalysis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="11" column="57" lean-forward="false" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/FrequencyAnalysisTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/FrequencyAnalysisTesterPMR.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/Assignment1406/PrimeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/ChallengeExam1208/CookieJar.java" />
-    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/Fibonacci1205/FibonacciNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/Assignment1406/PrimeNumberTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="165">
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/scratch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/ChallengeExam1208/PrimeNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1154">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursicePalindromeTesterPMR.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindromeTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/Palindrome1206/RecursivePalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="198">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
           <folding />
         </state>
       </provider>

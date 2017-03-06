@@ -1,0 +1,14 @@
+PROJECT TITLE: TestNew // TestNew.java
+PURPOSE OF PROJECT: Learn Overwriting methods
+VERSION or DATE: 2/24/17
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: -.-
+
+<-s>: I don't know what I was doing, I must have been over complicating things
+too much and now looking back at the assignment I realize that this task was easier
+than what I was making it.
+
+********************************************************************************

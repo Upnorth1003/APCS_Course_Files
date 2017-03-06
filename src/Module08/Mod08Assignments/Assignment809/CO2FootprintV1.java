@@ -8,7 +8,7 @@ package Module08.Mod08Assignments.Assignment809;
  */
 public class CO2FootprintV1
     {
-        private double mygOG;
+        private double gallonsOfGas;
 
         CO2FootprintV1()
             {
@@ -19,7 +19,7 @@ public class CO2FootprintV1
          */
         CO2FootprintV1(double gallonsOfGas)
             {
-                mygOG = gallonsOfGas;
+                this.gallonsOfGas = gallonsOfGas;
             }
 
         /**
@@ -27,7 +27,7 @@ public class CO2FootprintV1
          */
         public double getEmission()
             {
-                return mygOG * 8.78E-3;
+                return this.gallonsOfGas * 8.78E-3;
             }
 
         /**
@@ -35,7 +35,7 @@ public class CO2FootprintV1
          */
         public double convertToPounds()
             {
-                return mygOG * 8.78E-3 * 2000;
+                return this.gallonsOfGas * 8.78E-3 * 2000;
             }
 
         /**
@@ -43,7 +43,7 @@ public class CO2FootprintV1
          */
         public double getGas()
             {
-                return mygOG;
+                return this.gallonsOfGas;
             }
 
     }

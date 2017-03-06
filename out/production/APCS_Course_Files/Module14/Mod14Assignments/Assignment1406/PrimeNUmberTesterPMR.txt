@@ -1,0 +1,15 @@
+PROJECT TITLE: PrimeNumberTester // PrimeNumberTester.java
+PURPOSE OF PROJECT: Calculate prime numbers under a users number.
+VERSION or DATE: 2/26/17
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: I had made a program like this a while back for a challenge program. So I decided
+to mix it up for this one and change the code instead of copy and pasting the other
+code.
+
+<-s>: I couldn't figure a way out for a this.variable in the code so I'm just
+going to take the points on that one.
+
+********************************************************************************

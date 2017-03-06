@@ -1,0 +1,14 @@
+PROJECT TITLE: TestPoly2 // TestPoly2.java
+PURPOSE OF PROJECT: Learn how to extend classes, and implement them into each other
+VERSION or DATE: 2/14/17
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: The lesson was very easy to accomplish.
+
+<-s>: I had some issues with knowing how to do it so that I can make an arraylist.
+figured out that you make it the type that all the classes have in common. Since
+they are all derived from the circle class, you make the arryalist of circle.
+
+********************************************************************************

@@ -1,0 +1,14 @@
+PROJECT TITLE: CaesarShiftTester // CaesarShiftTester.java
+PURPOSE OF PROJECT:  to encrypt and decrypt caesar shifts, using static methods.
+VERSION or DATE: 2/22/17
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: Had to really think outside the box.
+
+<-s>: The program was easy to finish once I figured out the right way of using
+the cipher. The assignment lesson was helpful because I got the picture while
+looking at the picture..........
+
+********************************************************************************

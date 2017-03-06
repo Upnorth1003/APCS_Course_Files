@@ -1,0 +1,14 @@
+PROJECT TITLE: MorseCodeTester // MorseCodeTester.java
+PURPOSE OF PROJECT:  translate english into morse code
+VERSION or DATE: 2/21/17
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: Had to really think outside the box.
+
+<-s>: I had to look online for some help, because I couldn't recall a way
+to corolate the morse code array to the String with the alphabet. The way I did
+it is the best way, in which I could understand it.
+
+********************************************************************************

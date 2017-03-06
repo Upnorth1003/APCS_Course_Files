@@ -1,0 +1,33 @@
+PROJECT TITLE: FrequencyAnalysisTester // FrequencyAnalysisTester.java
+PURPOSE OF PROJECT:  find the frequency of letters
+VERSION or DATE: 2/28/17
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: Had to really think outside the box.
+
+<-s>: I had some trouble remembering how to correlate letters with the alphabet
+again but I think that I managed to do it well this time. Maybe not efficient but
+well.
+
+********************************************************************************
+
+1) I ran into problems on how to correlate the letters coming up to the regular
+alphabet. To resolve this problem I sat down and took a minute to write out
+what needed to be done and a way to type and execute it.
+
+2) Their frequencies didn't really correlate well together, sometimes I would
+look at the percent and it was a who integer value off. Reading from files that
+have more writing in them could make this process better.
+
+3) They way I would go about doing this is pretty simple. We already made the
+code for getting the frequencies of the two different passages. All we would
+need to do next is write another method to compare both the frequencies, with
+some room of about 5% error. Then when the program has a rough estimate, you
+would write another method to switch out the letters compared in the frequencies.
+
+DECODED MESSAGE:
+first i believe that this nation should commit itself to achieving
+the goal before this decade is out of landing a man on the moon and
+returning him safely to the earth
