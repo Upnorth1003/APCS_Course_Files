@@ -1,0 +1,14 @@
+PROJECT TITLE: TestHomework2 // TestHomework2.java
+PURPOSE OF PROJECT: test the My<Subject> classes and use an interface. Also, use
+List<>
+VERSION or DATE: 3/7/17
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: Instructions were basically copy the old classes and add a method from
+the interface
+
+<-s>: I had no issue with the concept or writing out the programs.
+
+********************************************************************************

@@ -6,207 +6,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f95992f1-a316-4608-85bd-e45cfa964df7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/PictureLab.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/DigitalPicture.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/FileChooser.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/ImageDisplay.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/IntArrayWorker.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/IntArrayWorkerTester.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/Picture.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/PictureExplorer$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/PictureExplorer$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/PictureExplorer$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/PictureExplorer$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/PictureExplorer$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/PictureExplorer$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/PictureExplorer$PictureExplorerFocusTraversalPolicy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/PictureFrame.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/PictureTester.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/Pixel.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/SimplePicture.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module15/Mod15Assignments/Assignment1501/Homework.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module15/Mod15Assignments/Assignment1501/MyEnglish.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module15/Mod15Assignments/Assignment1501/MyJava.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module15/Mod15Assignments/Assignment1501/MyMath.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module15/Mod15Assignments/Assignment1501/MyScience.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module15/Mod15Assignments/Assignment1501/TestHomework.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module15/Mod15Assignments/Assignment1501/TestHomework.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module15/Mod15Documents/15_01_Assignment_Instructions.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module15/Mod15Documents/15_01_Virtual_Lecture_Notes.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module15/Mod15Documents/15_03_Virtual_Lecture_Notes.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module15/Mod15Lessons/Abstract1501/BasicJean.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module15/Mod15Lessons/Abstract1501/BeadedJean.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module15/Mod15Lessons/Abstract1501/Tester.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module15/Mod15Lessons/Interfaces1503/BasicJean.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module15/Mod15Lessons/Interfaces1503/FadedJean.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module15/Mod15Lessons/Interfaces1503/JeanEffects.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module15/Mod15Lessons/Interfaces1503/JeanJacket.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module15/Mod15Lessons/Interfaces1503/TestFadedJean.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module15/Mod15Lessons/Interfaces1503/TestJacket.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module15/Mod15Lessons/List1502/CalculationsWithArrayLists2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module15/Mod15Assignments/Assignment1501/TestHomeworkPMR.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/DigitalPicture.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/FileChooser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/ImageDisplay.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/IntArrayWorker.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/IntArrayWorkerTester.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Picture.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/PictureExplorer$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/PictureExplorer$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/PictureExplorer$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/PictureExplorer$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/PictureExplorer$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/PictureExplorer$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/PictureExplorer$PictureExplorerFocusTraversalPolicy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/PictureFrame.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/PictureTester.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Pixel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/SimplePicture.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/ColorChooser.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/DigitalPicture.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/FileChooser.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/ImageDisplay.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/IntArrayWorker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/IntArrayWorkerTester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/Picture.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/PictureExplorer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/PictureFrame.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/PictureTester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/Pixel.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/SimplePicture.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/_notes/dwsync.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/doc/ColorChooser.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/doc/DigitalPicture.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/doc/FileChooser.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/doc/ImageDisplay.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/doc/IntArrayWorker.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/doc/IntArrayWorkerTester.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/doc/Picture.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/doc/PictureExplorer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/doc/PictureFrame.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/doc/PictureTester.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/doc/Pixel.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/doc/SimplePicture.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/doc/_notes/dwsync.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/doc/allclasses-frame.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/doc/allclasses-noframe.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/doc/constant-values.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/doc/deprecated-list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/doc/help-doc.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/doc/index-all.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/doc/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/doc/overview-tree.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/doc/package-frame.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/doc/package-list" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/doc/package-summary.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/doc/package-tree.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/doc/resources/_notes/dwsync.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/doc/resources/inherit.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/doc/serialized-form.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/doc/stylesheet.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/leftArrow.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/rightArrow.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/classes/~WRL1689.tmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/640x480.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/7inX95in.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/CumberlandIsland.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/KatieFancy.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/_notes/dwsync.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/arch.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/barbaraS.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/beach.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/blue-mark.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/blueMotorcycle.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/butterfly1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/caterpillar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/femaleLionAndHall.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/flower1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/flower2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/gorge.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/jenny-red.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/kitten2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/koala.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/moon-surface.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/msg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/redMotorcycle.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/robot.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/seagull.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/snowman.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/swan.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/temple.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/thruDoor.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/wall.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/water.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/PictureLab1411/images/whiteFlower.jpg" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1503/Homework2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1503/MyEnglish2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1503/MyJava2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1503/MyMath2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1503/MyScience2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1503/Processing.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1503/TestHomework2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1503/TestHomework2PMR.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1504/Homework3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1504/MyEnglish3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1504/MyJava3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1504/MyMath3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1504/MyScience3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1504/TestHomework3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1504/TestHomework3PMR.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module15/Mod15Lessons/ComparableInterface1504/BasicJean2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module15/Mod15Lessons/ComparableInterface1504/BeadedJean2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module15/Mod15Lessons/ComparableInterface1504/Tester2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module15/Mod15Lessons/ComparableInterface1504/Tester3.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/ColorChooser.class" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/ColorChooser.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/_notes/dwsync.xml" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/_notes/dwsync.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/doc/ColorChooser.html" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/doc/ColorChooser.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/doc/DigitalPicture.html" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/doc/DigitalPicture.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/doc/FileChooser.html" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/doc/FileChooser.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/doc/ImageDisplay.html" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/doc/ImageDisplay.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/doc/IntArrayWorker.html" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/doc/IntArrayWorker.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/doc/IntArrayWorkerTester.html" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/doc/IntArrayWorkerTester.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/doc/Picture.html" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/doc/Picture.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/doc/PictureExplorer.html" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/doc/PictureExplorer.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/doc/PictureFrame.html" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/doc/PictureFrame.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/doc/PictureTester.html" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/doc/PictureTester.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/doc/Pixel.html" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/doc/Pixel.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/doc/SimplePicture.html" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/doc/SimplePicture.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/doc/_notes/dwsync.xml" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/doc/_notes/dwsync.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/doc/allclasses-frame.html" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/doc/allclasses-frame.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/doc/allclasses-noframe.html" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/doc/allclasses-noframe.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/doc/constant-values.html" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/doc/constant-values.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/doc/deprecated-list.html" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/doc/deprecated-list.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/doc/help-doc.html" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/doc/help-doc.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/doc/index-all.html" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/doc/index-all.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/doc/index.html" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/doc/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/doc/overview-tree.html" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/doc/overview-tree.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/doc/package-frame.html" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/doc/package-frame.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/doc/package-list" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/doc/package-list" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/doc/package-summary.html" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/doc/package-summary.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/doc/package-tree.html" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/doc/package-tree.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/doc/resources/_notes/dwsync.xml" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/doc/resources/_notes/dwsync.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/doc/resources/inherit.gif" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/doc/resources/inherit.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/doc/serialized-form.html" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/doc/serialized-form.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/doc/stylesheet.css" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/doc/stylesheet.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/leftArrow.gif" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/leftArrow.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/rightArrow.gif" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/rightArrow.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/classes/~WRL1689.tmp" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/~WRL1689.tmp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/640x480.jpg" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/640x480.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/7inX95in.jpg" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/7inX95in.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/CumberlandIsland.jpg" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/CumberlandIsland.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/KatieFancy.jpg" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/KatieFancy.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/Thumbs.db" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/Thumbs.db" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/_notes/dwsync.xml" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/_notes/dwsync.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/arch.jpg" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/arch.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/barbaraS.jpg" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/barbaraS.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/beach.jpg" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/beach.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/blue-mark.jpg" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/blue-mark.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/blueMotorcycle.jpg" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/blueMotorcycle.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/butterfly1.jpg" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/butterfly1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/caterpillar.jpg" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/caterpillar.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/femaleLionAndHall.jpg" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/femaleLionAndHall.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/flower1.jpg" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/flower1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/flower2.jpg" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/flower2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/gorge.jpg" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/gorge.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/jenny-red.jpg" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/jenny-red.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/kitten2.jpg" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/kitten2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/koala.jpg" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/koala.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/moon-surface.jpg" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/moon-surface.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/msg.jpg" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/msg.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/redMotorcycle.jpg" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/redMotorcycle.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/robot.jpg" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/robot.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/seagull.jpg" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/seagull.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/snowman.jpg" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/snowman.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/swan.jpg" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/swan.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/temple.jpg" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/temple.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/thruDoor.jpg" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/thruDoor.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/wall.jpg" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/wall.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/water.jpg" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/water.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/PictureLab1411/images/whiteFlower.jpg" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/images/whiteFlower.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/PictureExplorer.class" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/PictureExplorer.class" />
     </list>
     <ignored path="APCS Course Files.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -226,11 +45,88 @@
     <favorites_list name="APCS Course Files" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+      <file leaf-file-name="Homework3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1504/Homework3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="839">
+              <caret line="29" column="29" lean-forward="false" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyMath3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1504/MyMath3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <element signature="e#398#399#0" expanded="true" />
+                <element signature="e#490#491#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestHomework3.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1504/TestHomework3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestHomework3PMR.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1504/TestHomework3PMR.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyScience3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1504/MyScience3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyEnglish3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1504/MyEnglish3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyJava3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1504/MyJava3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -246,25 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Module14/Mod14Lessons/ThisWorks1405/ThisDemo1bTester.java" />
-        <option value="$PROJECT_DIR$/src/Module14/Mod14Lessons/ThisWorks1405/ThisDemo1cTester.java" />
-        <option value="$PROJECT_DIR$/src/Module14/Mod14Lessons/ThisWorks1405/ThisDemo2aTester.java" />
-        <option value="$PROJECT_DIR$/src/Module14/Mod14Lessons/ThisWorks1405/ThisDemo2bTester.java" />
-        <option value="$PROJECT_DIR$/src/Module14/Mod14Lessons/ThisWorks1405/ThisDemo2cTester.java" />
-        <option value="$PROJECT_DIR$/src/Module08/Mod08Assignments/AnnualFuelUse808/AnnualFuelUse.java" />
-        <option value="$PROJECT_DIR$/src/Module08/Mod08Assignments/Assignment809/CO2FootprintV1.java" />
-        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/Assignment1406/PrimeNumbers.java" />
-        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/Assignment1406/PrimeNumbersTester.java" />
-        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/Assignment1406/PrimeNumberTester.java" />
-        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/Assignment1406/PrimeNumber.java" />
-        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/CaesarShiftCipher/CaesarShiftTesterPMR.txt" />
-        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/Assignment1406/PrimeNUmberTesterPMR.txt" />
-        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/plaintext.txt" />
-        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/ciphertext.txt" />
-        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/subset.txt" />
-        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/plaintextfreq.txt" />
-        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/FrequencyAnalysisTester.java" />
-        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/secretmessage.txt" />
         <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/FrequencyAnalysisTesterPMR.txt" />
         <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/FrequencyAnalysis.java" />
         <option value="$PROJECT_DIR$/src/Module12/Mod12Assignents/scratch.java" />
@@ -297,6 +174,25 @@
         <option value="$PROJECT_DIR$/src/Module15/Mod15Lessons/Interfaces1503/FadedJean.java" />
         <option value="$PROJECT_DIR$/src/Module15/Mod15Lessons/Interfaces1503/TestFadedJean.java" />
         <option value="$PROJECT_DIR$/src/Module15/Mod15Lessons/Interfaces1503/BasicJean.java" />
+        <option value="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1503/Processing.java" />
+        <option value="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1503/Homework2.java" />
+        <option value="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1503/MyMath2.java" />
+        <option value="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1503/MyScience2.java" />
+        <option value="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1503/MyEnglish2.java" />
+        <option value="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1503/MyJava2.java" />
+        <option value="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1503/TestHomework2PMR.txt" />
+        <option value="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1503/TestHomework2.java" />
+        <option value="$PROJECT_DIR$/src/Module15/Mod15Lessons/ComparableInterface1504/BasicJean2.java" />
+        <option value="$PROJECT_DIR$/src/Module15/Mod15Lessons/ComparableInterface1504/BeadedJean2.java" />
+        <option value="$PROJECT_DIR$/src/Module15/Mod15Lessons/ComparableInterface1504/Tester2.java" />
+        <option value="$PROJECT_DIR$/src/Module15/Mod15Lessons/ComparableInterface1504/Tester3.java" />
+        <option value="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1504/Homework3.java" />
+        <option value="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1504/MyMath3.java" />
+        <option value="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1504/MyScience3.java" />
+        <option value="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1504/MyEnglish3.java" />
+        <option value="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1504/MyJava3.java" />
+        <option value="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1504/TestHomework3.java" />
+        <option value="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1504/TestHomework3PMR.txt" />
       </list>
     </option>
   </component>
@@ -305,7 +201,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-11" />
-    <option name="width" value="1942" />
+    <option name="width" value="2394" />
     <option name="height" value="2091" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -413,29 +309,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Interfaces1503" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="APCS Course Files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Module15" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mod15Lessons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Abstract1501" />
+              <option name="myItemId" value="ComparableInterface1504" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -468,6 +342,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Module15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Mod15Assignments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assignment1504" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="APCS Course Files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Module15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Mod15Assignments" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -504,84 +404,14 @@
       <recent name="Module05.Mod05Assignments.Game" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Repositories\APCS_Course_Files\src\Module15\Mod15Lessons\ComparableInterface1504" />
       <recent name="D:\Repositories\APCS_Course_Files\src\Module15\Mod15Lessons\Interfaces1503" />
       <recent name="D:\Repositories\APCS_Course_Files\src\Module15\Mod15Lessons\List1502" />
       <recent name="D:\Repositories\APCS_Course_Files\src\Module15\Mod15Lessons\Abstract1501" />
       <recent name="D:\Repositories\APCS_Course_Files\src\Module14\Mod14Lessons\ThisWorks1405" />
-      <recent name="D:\Repositories\APCS_Course_Files\src\Module13\Mod13Assignments\Assignment1305" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestFadedJean">
-    <configuration default="false" name="ColorChooser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="ColorChooser" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="APCS_Course_Files" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="PictureExplorer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="PictureExplorer" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="APCS_Course_Files" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="PictureExplorer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Module14.Mod14Assignments.pixLab.classes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Module14.Mod14Assignments.pixLab.classes.PictureExplorer" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="APCS_Course_Files" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="CalculationsWithArrayLists2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Module15.Mod15Lessons.List1502.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Module15.Mod15Lessons.List1502.CalculationsWithArrayLists2" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="APCS_Course_Files" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.TestHomework3">
     <configuration default="false" name="TestFadedJean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -590,6 +420,86 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Module15.Mod15Lessons.Interfaces1503.TestFadedJean" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="APCS_Course_Files" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestHomework2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Module15.Mod15Assignments.Assignment1503.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Module15.Mod15Assignments.Assignment1503.TestHomework2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="APCS_Course_Files" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Tester2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Module15.Mod15Lessons.ComparableInterface1504.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Module15.Mod15Lessons.ComparableInterface1504.Tester2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="APCS_Course_Files" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Tester3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Module15.Mod15Lessons.ComparableInterface1504.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Module15.Mod15Lessons.ComparableInterface1504.Tester3" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="APCS_Course_Files" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestHomework3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Module15.Mod15Assignments.Assignment1504.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Module15.Mod15Assignments.Assignment1504.TestHomework3" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -807,19 +717,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ColorChooser" />
-      <item index="1" class="java.lang.String" itemvalue="Application.PictureExplorer" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PictureExplorer (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CalculationsWithArrayLists2" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TestFadedJean" />
+      <item index="0" class="java.lang.String" itemvalue="Application.TestFadedJean" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestHomework2" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Tester2" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Tester3" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestHomework3" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestFadedJean" />
-        <item index="1" class="java.lang.String" itemvalue="Application.CalculationsWithArrayLists2" />
-        <item index="2" class="java.lang.String" itemvalue="Application.PictureExplorer (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PictureExplorer" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ColorChooser" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TestHomework3" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Tester3" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Tester2" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestHomework2" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TestFadedJean" />
       </list>
     </recent_temporary>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -861,7 +771,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="0" width="1942" height="2091" extended-state="0" />
+    <frame x="-11" y="0" width="2394" height="2091" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -879,7 +789,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27922755" sideWeight="0.72835314" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2195946" sideWeight="0.72835314" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14900427" sideWeight="0.4974656" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -916,188 +826,11 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/ChallengeExam1208/PrimeNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/CaesarShiftCipher/CaesarShiftEncryption.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="40" column="38" lean-forward="false" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/MorseCode1402/MorseCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="30" column="17" lean-forward="false" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/subset.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="73" lean-forward="false" selection-start-line="0" selection-start-column="73" selection-end-line="0" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/plaintext.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3795">
-          <caret line="115" column="0" lean-forward="true" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/ciphertext.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="6159" lean-forward="false" selection-start-line="0" selection-start-column="6159" selection-end-line="0" selection-end-column="6159" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/chipertextfreq.txt" />
-    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/plaintextfreq.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/ciphertextfreq.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module05/Mod05Lessons/FileOutput506/MysteryPrintWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/CaesarShiftCipher/CaesarShiftTesterPMR.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="11" column="32" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/secretmessage.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/FrequencyAnalysis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="11" column="57" lean-forward="false" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/FrequencyAnalysisTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/FrequencyAnalysis1407/FrequencyAnalysisTesterPMR.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
-          <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/Assignment1406/PrimeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/Assignment1406/PrimeNumberTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module12/Mod12Assignents/scratch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Lessons/Abstract1501/BeadedJean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Lessons/Abstract1501/BasicJean.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="726">
           <caret line="22" column="4" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1501/Homework.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1501/MyMath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="23" column="70" lean-forward="false" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1501/MyScience.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="22" column="70" lean-forward="false" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1501/MyEnglish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="24" column="70" lean-forward="false" selection-start-line="24" selection-start-column="70" selection-end-line="24" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1501/MyJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="23" column="70" lean-forward="false" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1501/TestHomework.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1501/TestHomeworkPMR.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -1231,20 +964,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Lessons/Interfaces1503/JeanEffects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Lessons/Interfaces1503/TestJacket.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
           <folding>
-            <element signature="e#341#353#0" expanded="true" />
+            <element signature="e#341#353#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1254,10 +979,10 @@
         <state relative-caret-position="825">
           <caret line="55" column="26" lean-forward="true" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
           <folding>
-            <element signature="e#1176#1177#0" expanded="true" />
-            <element signature="e#1214#1215#0" expanded="true" />
-            <element signature="e#1247#1248#0" expanded="true" />
-            <element signature="e#1286#1287#0" expanded="true" />
+            <element signature="e#1176#1177#0" expanded="false" />
+            <element signature="e#1214#1215#0" expanded="false" />
+            <element signature="e#1247#1248#0" expanded="false" />
+            <element signature="e#1286#1287#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1283,7 +1008,254 @@
         <state relative-caret-position="693">
           <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
           <folding>
-            <element signature="e#331#342#0" expanded="true" />
+            <element signature="e#331#342#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Lessons/Interfaces1503/JeanEffects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1503/Processing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1501/MyMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="e#395#396#0" expanded="false" />
+            <element signature="e#487#488#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1501/Homework.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1501/MyScience.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="23" selection-end-column="13" />
+          <folding>
+            <element signature="e#403#404#0" expanded="false" />
+            <element signature="e#495#496#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1501/MyEnglish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <element signature="e#422#423#0" expanded="false" />
+            <element signature="e#514#515#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1501/MyJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="e#412#413#0" expanded="false" />
+            <element signature="e#504#505#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1501/TestHomework.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1501/TestHomeworkPMR.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Lessons/ComparableInterface1504/BeadedJean2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Lessons/ComparableInterface1504/Tester2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="30" column="12" lean-forward="true" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Lessons/ComparableInterface1504/Tester3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="16" column="55" lean-forward="true" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1503/Homework2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="20" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Lessons/ComparableInterface1504/BasicJean2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+          <folding>
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1503/MyMath2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1503/TestHomework2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1503/MyScience2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1503/MyEnglish2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="30" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1503/MyJava2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="31" selection-end-column="13" />
+          <folding>
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1504/MyJava3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1503/TestHomework2PMR.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1504/MyMath3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1504/TestHomework3PMR.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1504/MyScience3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1504/MyEnglish3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1504/Homework3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="839">
+          <caret line="29" column="29" lean-forward="false" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1504/TestHomework3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
