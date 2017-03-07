@@ -1,0 +1,14 @@
+PROJECT TITLE: TestHomework // TestHomework.java
+PURPOSE OF PROJECT: test the My<Subject> classes and use an abstract class
+VERSION or DATE: 3/6/17
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: Instructions were somewhat easy to follow.
+
+<-s>: I built the homework constructor wrong the first time and had a bunch
+of redundacies then went back and understood what the directions where telling
+me to do.
+
+********************************************************************************
