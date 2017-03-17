@@ -1,0 +1,14 @@
+PROJECT TITLE: InventoryDemo // InventoryDemo.java
+PURPOSE OF PROJECT: Implement what I have learned so far in 15
+VERSION or DATE: 3/12/17
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: Project was pretty easy to do.
+
+<-s>: I couldn't make the Tool class an abstract class because then I couldn't
+create any tools so I left it as it implements everything it needs to and then
+it works basically like an abstract class and subclass put together.
+
+********************************************************************************

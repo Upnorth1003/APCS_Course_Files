@@ -10,18 +10,9 @@ import java.util.ArrayList;
 public class scratch
     {
 
-        private static final int BASE = 2;
-        public static double calcTriangleArea(int height)
-            {
-                double area = .5 * BASE * height;
-                return area;
-            }
-
-
         public static void main(String[] args)
             {
-
-                System.out.println(calcTriangleArea(14));
+                
             }
 
     }
