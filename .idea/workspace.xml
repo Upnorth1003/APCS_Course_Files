@@ -6,26 +6,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f95992f1-a316-4608-85bd-e45cfa964df7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1505/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1505/InventoryDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1505/InventoryDemoPMR.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1505/Product.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1505/Tool.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1505/Truck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1505/Vehicle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1507/SeeModule14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module15/Mod15Assignments/Shapes.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module16/Mod16Lessons/Traversing1601/InventoryItem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module16/Mod16Lessons/Traversing1601/LargestInStock.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module16/Mod16Lessons/Traversing1601/LargestInStock2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module16/Mod16Lessons/Traversing1601/TestInventory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module12/Mod12Assignents/scratch.class" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module12/Mod12Assignents/scratch.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/Picture.class" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/Picture.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/PictureTester.class" afterPath="$PROJECT_DIR$/out/production/APCS_Course_Files/Module14/Mod14Assignments/pixLab/classes/PictureTester.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module16/Mod16Assignment/Assignment1601/Candidate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module16/Mod16Assignment/Assignment1601/TestCandidate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module16/Mod16Assignment/Assignment1601/TestCandidatePMR.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module16/Mod16Assignment/Assignment1602/Candidate3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module16/Mod16Assignment/Assignment1602/TestCandidate3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module16/Mod16Assignment/Assignment1602/TestCandidate3PMR.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module16/Mod16Lessons/Replacement1602/TestInventory3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module16/Mod16Lessons/Replacement1602/TestInventory4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Module16/Mod16Lessons/Traversing1601/Tester.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Module12/Mod12Assignents/scratch.java" afterPath="$PROJECT_DIR$/src/Module12/Mod12Assignents/scratch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/pixLab/classes/Picture.java" afterPath="$PROJECT_DIR$/src/Module14/Mod14Assignments/pixLab/classes/Picture.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Module14/Mod14Assignments/pixLab/classes/PictureTester.java" afterPath="$PROJECT_DIR$/src/Module14/Mod14Assignments/pixLab/classes/PictureTester.java" />
     </list>
     <ignored path="APCS Course Files.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,52 +35,7 @@
     <favorites_list name="APCS Course Files" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="InventoryItem.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Module16/Mod16Lessons/Traversing1601/InventoryItem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LargestInStock.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Module16/Mod16Lessons/Traversing1601/LargestInStock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
-              <folding>
-                <element signature="e#46#133#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LargestInStock2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Module16/Mod16Lessons/Traversing1601/LargestInStock2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
-              <folding>
-                <element signature="e#291#306#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestInventory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Module16/Mod16Lessons/Traversing1601/TestInventory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -116,16 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/pixLab/classes/IntArrayWorkerTester.java" />
-        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/pixLab/classes/IntArrayWorker.java" />
-        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/pixLab/classes/ImageDisplay.java" />
-        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/pixLab/classes/FileChooser.java" />
-        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/pixLab/classes/DigitalPicture.java" />
-        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/pixLab/classes/ColorChooser.java" />
-        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/pixLab/classes/PictureFrame.java" />
-        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/pixLab/classes/Pixel.java" />
-        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/pixLab/classes/SimplePicture.java" />
-        <option value="$PROJECT_DIR$/src/Module14/Mod14Assignments/pixLab/classes/PictureExplorer.java" />
         <option value="$PROJECT_DIR$/src/Module15/Mod15Lessons/List1502/CalculationsWithArrayLists2.java" />
         <option value="$PROJECT_DIR$/src/Module15/Mod15Lessons/Interfaces1503/TestJacket.java" />
         <option value="$PROJECT_DIR$/src/Module15/Mod15Lessons/Interfaces1503/TestFadedJean.java" />
@@ -167,6 +102,16 @@
         <option value="$PROJECT_DIR$/src/Module16/Mod16Lessons/Traversing1601/InventoryItem.java" />
         <option value="$PROJECT_DIR$/src/Module16/Mod16Lessons/Traversing1601/LargestInStock.java" />
         <option value="$PROJECT_DIR$/src/Module16/Mod16Lessons/Traversing1601/LargestInStock2.java" />
+        <option value="$PROJECT_DIR$/src/Module16/Mod16Lessons/Traversing1601/Tester.java" />
+        <option value="$PROJECT_DIR$/src/Module16/Mod16Assignment/Assignment1601/Canidate.java" />
+        <option value="$PROJECT_DIR$/src/Module16/Mod16Assignment/Assignment1601/TestCandidate.java" />
+        <option value="$PROJECT_DIR$/src/Module16/Mod16Assignment/Assignment1601/TestCandidatePMR.txt" />
+        <option value="$PROJECT_DIR$/src/Module16/Mod16Lessons/Replacement1602/TestInventory4.java" />
+        <option value="$PROJECT_DIR$/src/Module16/Mod16Lessons/Replacement1602/TestInventory3.java" />
+        <option value="$PROJECT_DIR$/src/Module16/Mod16Assignment/Assignment1602/Candidate.java" />
+        <option value="$PROJECT_DIR$/src/Module16/Mod16Assignment/Assignment1602/Candidate3.java" />
+        <option value="$PROJECT_DIR$/src/Module16/Mod16Assignment/Assignment1602/TestCandidate3.java" />
+        <option value="$PROJECT_DIR$/src/Module16/Mod16Assignment/Assignment1602/TestCandidate3PMR.txt" />
       </list>
     </option>
   </component>
@@ -174,9 +119,10 @@
     <scope name="Unnamed" pattern="" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
-    <option name="width" value="1942" />
-    <option name="height" value="2091" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -234,6 +180,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -263,8 +212,26 @@
               <option name="myItemId" value="Mod16Lessons" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Traversing1601" />
+              <option name="myItemId" value="APCS Course Files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Module16" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Mod16Lessons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Replacement1602" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -299,12 +266,39 @@
               <option name="myItemId" value="Module16" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Mod16Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assignment1602" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="APCS Course Files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Module16" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Mod16Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assignment1601" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -317,21 +311,21 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Repositories\APCS_Course_Files\src\Module16\Mod16Lessons\Replacement1602" />
       <recent name="D:\Repositories\APCS_Course_Files\src\Module16\Mod16Lessons\Traversing1601" />
       <recent name="D:\Repositories\APCS_Course_Files\src\Module15\Mod15Lessons\ComparableInterface1504" />
       <recent name="D:\Repositories\APCS_Course_Files\src\Module15\Mod15Lessons\Interfaces1503" />
       <recent name="D:\Repositories\APCS_Course_Files\src\Module15\Mod15Lessons\List1502" />
-      <recent name="D:\Repositories\APCS_Course_Files\src\Module15\Mod15Lessons\Abstract1501" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Module02.Mod02Lesson" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Module16.Mod16Assignment.Assignment1602" />
       <recent name="Module15.Mod15Lessons.Interfaces1503" />
       <recent name="Module13.Mod13Assignments.Assignment1304" />
       <recent name="Module13.Mod13Assignments.Assignment1301" />
       <recent name="Module06.Mod06Assignments.WeatherData601" />
-      <recent name="Module05.Mod05Assignments.Game" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Repositories\APCS_Course_Files\src\Module14\Mod14Documents" />
@@ -341,47 +335,7 @@
       <recent name="D:\Repositories\APCS_Course_Files\src\Module12\Mod12Assignents\MysteryProject1207" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PictureTester">
-    <configuration default="false" name="InventoryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Module15.Mod15Assignments.Assignment1505.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Module15.Mod15Assignments.Assignment1505.InventoryDemo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="APCS_Course_Files" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Picture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Module14.Mod14Assignments.pixLab.classes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Module14.Mod14Assignments.pixLab.classes.Picture" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="APCS_Course_Files" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.TestCandidate3">
     <configuration default="false" name="PictureTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -402,14 +356,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="scratch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Shapes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Module12.Mod12Assignents.*" />
+          <option name="PATTERN" value="Module15.Mod15Assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Module12.Mod12Assignents.scratch" />
+      <option name="MAIN_CLASS_NAME" value="Module15.Mod15Assignments.Shapes" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -422,14 +376,54 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Shapes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="TestCandidate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Module15.Mod15Assignments.*" />
+          <option name="PATTERN" value="Module16.Mod16Assignment.Assignment1601.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Module15.Mod15Assignments.Shapes" />
+      <option name="MAIN_CLASS_NAME" value="Module16.Mod16Assignment.Assignment1601.TestCandidate" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="APCS_Course_Files" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Module16.Mod16Lessons.Traversing1601.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Module16.Mod16Lessons.Traversing1601.Tester" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="APCS_Course_Files" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestCandidate3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Module16.Mod16Assignment.Assignment1602.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Module16.Mod16Assignment.Assignment1602.TestCandidate3" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -647,19 +641,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.InventoryDemo" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Picture" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PictureTester" />
-      <item index="3" class="java.lang.String" itemvalue="Application.scratch" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Shapes" />
+      <item index="0" class="java.lang.String" itemvalue="Application.PictureTester" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Shapes" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TestCandidate" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Tester" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestCandidate3" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PictureTester" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Shapes" />
-        <item index="2" class="java.lang.String" itemvalue="Application.scratch" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Picture" />
-        <item index="4" class="java.lang.String" itemvalue="Application.InventoryDemo" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TestCandidate3" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestCandidate" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Tester" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PictureTester" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Shapes" />
       </list>
     </recent_temporary>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -701,7 +695,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="0" width="1942" height="2091" extended-state="1" />
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -713,13 +707,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990807" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2930851" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29208925" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2807933" sideWeight="0.72835314" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1640625" sideWeight="0.72835314" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14900427" sideWeight="0.4974656" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -756,80 +750,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Lessons/List1502/CalculationsWithArrayLists2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="22" column="59" lean-forward="true" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/pixLab/classes/PictureExplorer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1300">
-          <caret line="799" column="5" lean-forward="false" selection-start-line="799" selection-start-column="5" selection-end-line="799" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module14/Mod14Assignments/pixLab/classes/FileChooser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1503/Processing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1501/MyMath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1501/Homework.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1501/MyScience.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1501/MyEnglish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1501/MyJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1501/TestHomework.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="33" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1501/TestHomeworkPMR.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="80" />
         </state>
       </provider>
     </entry>
@@ -1068,7 +992,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1076,7 +999,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="111" column="22" lean-forward="true" selection-start-line="111" selection-start-column="22" selection-end-line="111" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1084,15 +1006,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-132">
           <caret line="113" column="13" lean-forward="true" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module16/Mod16Lessons/Traversing1601/TestInventory.java">
+    <entry file="file://$PROJECT_DIR$/src/Module16/Mod16Lessons/Traversing1601/LargestInStock2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -1108,18 +1028,110 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module16/Mod16Lessons/Traversing1601/TestInventory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module16/Mod16Lessons/Traversing1601/Tester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module15/Mod15Assignments/Assignment1501/TestHomeworkPMR.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module16/Mod16Assignment/Assignment1601/TestCandidate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="42" />
           <folding>
-            <element signature="e#46#133#0" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module16/Mod16Lessons/Traversing1601/LargestInStock2.java">
+    <entry file="file://$PROJECT_DIR$/src/Module16/Mod16Lessons/Replacement1602/TestInventory4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="46" />
           <folding>
-            <element signature="e#291#306#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#349#364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module16/Mod16Assignment/Assignment1601/Candidate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding>
+            <element signature="e#629#630#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module16/Mod16Lessons/Replacement1602/TestInventory3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module16/Mod16Assignment/Assignment1602/TestCandidate3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#printVotes#0;class#TestCandidate3#0" expanded="false" />
+            <element signature="method#getTotal#0;class#TestCandidate3#0" expanded="false" />
+            <element signature="method#printResults#0;class#TestCandidate3#0" expanded="false" />
+            <element signature="method#replaceName#0;class#TestCandidate3#0" expanded="false" />
+            <element signature="method#replaceVotes#0;class#TestCandidate3#0" expanded="false" />
+            <element signature="method#replaceCandidate#0;class#TestCandidate3#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module16/Mod16Assignment/Assignment1602/TestCandidate3PMR.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="47" lean-forward="false" selection-start-line="0" selection-start-column="47" selection-end-line="0" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module16/Mod16Assignment/Assignment1601/TestCandidatePMR.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module16/Mod16Assignment/Assignment1602/Candidate3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="36" column="33" lean-forward="false" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+          <folding>
+            <element signature="e#687#688#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
           </folding>
         </state>
       </provider>
