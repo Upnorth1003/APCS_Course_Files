@@ -1,17 +1,17 @@
-package Module16.Mod16Assignment.Assignment1602;
+package Module16.Mod16Assignment.Assignment1604;
 
 /**
  * @author Tyler
  * @version 3/19/2017
  * @purpose
  */
-public class Candidate3
+public class Candidate4
     {
 
         private String name;
         private int numVotes;
 
-        Candidate3(String name, int numVotes)
+        Candidate4(String name, int numVotes)
             {
                 this.name = name;
                 this.numVotes = numVotes;

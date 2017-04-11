@@ -1,0 +1,14 @@
+PROJECT TITLE: TestStudent // TestStudent.java
+PURPOSE OF PROJECT: Run through all the lessons I learned in 16
+VERSION or DATE: 3/25/17
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: Was super easy to accomplish, I don't know why anyone would ever choose
+to do that with arrays because that is a whole lot more steps to do than using
+an arraylist.
+
+<-s>: No problems
+
+********************************************************************************

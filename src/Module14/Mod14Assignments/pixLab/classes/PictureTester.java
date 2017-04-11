@@ -43,7 +43,14 @@ public class PictureTester
     canvas.createCollage();
     canvas.explore();
   }
-  
+
+  public static void testCollage2()
+    {
+      Picture canvas = new Picture("D:\\Repositories\\APCS_Course_Files\\src\\Module14\\Mod14Assignments\\pixLab\\images\\640x480.jpg");
+      canvas.createCollage2();
+      canvas.explore();
+    }
+
   /** Method to test edgeDetection */
   public static void testEdgeDetection()
   {
@@ -99,6 +106,8 @@ public class PictureTester
       seagulls.explore();
     }
 
+
+
   /** Main method for testing.  Every class can have a main
     * method in Java */
   public static void main(String[] args)
@@ -106,6 +115,7 @@ public class PictureTester
     // uncomment a call here to run a test
     // and comment out the ones you don't want
     // to run
+    //testCollage2();
     //testZeroBlue();
     //testBlueOnly();
     //testNegate();
@@ -120,13 +130,13 @@ public class PictureTester
     //testGrayscale();
     //testFixUnderwater();
     //testMirrorVertical();
-    testMirrorTemple();
+    //testMirrorTemple();
     //testMirrorArms();
     //testMirrorGull();
     //testMirrorDiagonal();
     //testCollage();
     //testCopy();
-    //testEdgeDetection();
+    testEdgeDetection();
     //testEdgeDetection2();
     //testChromakey();
     //testEncodeAndDecode();

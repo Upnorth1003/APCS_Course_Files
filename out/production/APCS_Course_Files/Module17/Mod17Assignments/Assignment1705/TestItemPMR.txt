@@ -1,0 +1,12 @@
+PROJECT TITLE: TestItem // TestItem.java
+PURPOSE OF PROJECT: show my knowledge of sorting algorithms
+VERSION or DATE: 4/10/17
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: Was a fine assignment to do.
+
+<-s>: Had to give myself a refresher after being on spring break for a week.
+
+********************************************************************************

@@ -14,13 +14,13 @@ public class TestCandidate
         public static void main(String[] args)
             {
 
-                List<Candidate> election = new ArrayList<>();
+                Candidate[] election = new Candidate[5];
 
-                election.add(new Candidate("John Smith", 5000));
-                election.add(new Candidate("Mary Miller",4000));
-                election.add(new Candidate("Michael Duffy", 6000));
-                election.add(new Candidate("Tim Robinson", 2500));
-                election.add(new Candidate("Joe Ashtony", 1800));
+                election[0] = new Candidate("John Smith", 5000);
+                election[1] = new Candidate("Mary Miller", 4000);
+                election[2] = new Candidate("Michael Duffy", 6000);
+                election[3] = new Candidate("Tim Robinson", 2500);
+                election[4] = new Candidate("Joe Ashtony", 1800);
 
                 printVotes(election);
                 System.out.println();
@@ -31,35 +31,35 @@ public class TestCandidate
 
             }
 
-        public static void printVotes(List<Candidate> election)
+        public static void printVotes(Candidate[] election)
             {
-                for (int i = 0; i < election.size(); i++)
+                for (int i = 0; i < election.length; i++)
                     {
-                        System.out.println(election.get(i).getName() + "    " + election.get(i).getNumVotes());
+                        System.out.println(election[i].getName() + "    " + election[i].getNumVotes());
                     }
             }
 
-        public static int getTotal(List<Candidate> election)
+        public static int getTotal(Candidate[] election)
             {
                 int sum = 0;
 
-                for (int i = 0; i < election.size(); i++)
+                for (int i = 0; i < election.length; i++)
                     {
-                        sum += election.get(i).getNumVotes();
+                        sum += election[i].getNumVotes();
                     }
 
                 return sum;
             }
 
-        public static void printResults(List<Candidate> election)
+        public static void printResults(Candidate[] election)
             {
                 System.out.printf("%9s %5s %6s %s %8s\n", "Name", "|", "Number of Votes", "|", "Percent Total");
                 System.out.println("-----------------------------------------------");
-                for (int i = 0; i < election.size(); i++)
+                for (int i = 0; i < election.length; i++)
                     {
-                        double percentTotal = 100 * ((double)election.get(i).getNumVotes() / getTotal(election));
+                        double percentTotal = 100 * ((double)election[i].getNumVotes() / getTotal(election));
 
-                        System.out.printf("%-13s %s %10d %6s %9.2f\n", election.get(i).getName(), "|", election.get(i).getNumVotes(), "|", percentTotal);
+                        System.out.printf("%-13s %s %10d %6s %9.2f\n", election[i].getName(), "|", election[i].getNumVotes(), "|", percentTotal);
                     }
             }
 

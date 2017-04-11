@@ -282,6 +282,29 @@ public class Picture extends SimplePicture
     }   
   }
 
+  public void copy2(Picture fromPic, int startRow, int startCol, int endRow, int endCol)
+    {
+      Pixel fromPixel = null;
+      Pixel toPixel = null;
+      Pixel[][] toPixels = this.getPixels2D();
+      Pixel[][] fromPixels = fromPic.getPixels2D();
+      for (int fromRow = 0, toRow = startRow;
+           fromRow < fromPixels.length &&
+                   toRow < endRow;
+           fromRow++, toRow++)
+        {
+          for (int fromCol = 0, toCol = startCol;
+               fromCol < fromPixels[0].length &&
+                       toCol < endCol;
+               fromCol++, toCol++)
+            {
+              fromPixel = fromPixels[fromRow][fromCol];
+              toPixel = toPixels[toRow][toCol];
+              toPixel.setColor(fromPixel.getColor());
+            }
+        }
+    }
+
   /** Method to create a collage of several pictures */
   public void createCollage()
   {
@@ -298,6 +321,27 @@ public class Picture extends SimplePicture
     this.mirrorVertical();
     this.write("collage.jpg");
   }
+
+    public void createCollage2()
+        {
+            Picture flower1 = new Picture("D:\\Repositories\\APCS_Course_Files\\src\\Module14\\Mod14Assignments\\pixLab\\images\\flower1.jpg");
+            Picture flower2 = new Picture("D:\\Repositories\\APCS_Course_Files\\src\\Module14\\Mod14Assignments\\pixLab\\images\\flower2.jpg");
+            this.copy2(flower1,0,0, 100, 100);
+            Picture flowerOneNew = new Picture(flower1);
+            flowerOneNew.mirrorArms();
+            this.copy2(flowerOneNew,100,0, 200, 100);
+            this.copy2(flower1,200,0, 300, 100);
+            Picture flowerNoBlue = new Picture(flower2);
+            flowerNoBlue.negate();
+            flowerNoBlue.keepONlyBlue();
+            this.copy2(flowerNoBlue,300,0, 400, 150);
+            this.copy2(flowerNoBlue,400,0, 450, 50);
+            this.copy2(flower2,500,0, 500, 50);
+            this.mirrorVertical();
+            this.write("D:\\Repositories\\APCS_Course_Files\\src\\Module14\\Mod14Assignments\\pixLab\\images\\collage.jpg");
+        }
+
+
   
   
   /** Method to show large changes in color 
@@ -307,21 +351,27 @@ public class Picture extends SimplePicture
   {
     Pixel leftPixel = null;
     Pixel rightPixel = null;
+    Pixel lowerPixel = null;
     Pixel[][] pixels = this.getPixels2D();
     Color rightColor = null;
     for (int row = 0; row < pixels.length; row++)
     {
-      for (int col = 0; 
-           col < pixels[0].length-1; col++)
+      for (int col = 0; col < pixels[0].length-1; col++)
       {
         leftPixel = pixels[row][col];
         rightPixel = pixels[row][col+1];
+        if (row != pixels.length - 1)
+            lowerPixel = pixels[row+1][col];
         rightColor = rightPixel.getColor();
         if (leftPixel.colorDistance(rightColor) > 
             edgeDist)
           leftPixel.setColor(Color.BLACK);
+        else if (lowerPixel.colorDistance(rightColor) > edgeDist)
+            lowerPixel.setColor(Color.BLACK);
         else
           leftPixel.setColor(Color.WHITE);
+
+
       }
     }
   }

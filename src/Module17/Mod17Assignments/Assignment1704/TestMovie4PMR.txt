@@ -1,0 +1,15 @@
+PROJECT TITLE: TestMovie4 // TestMovie4.java
+PURPOSE OF PROJECT: Practice merge sort algorithm
+VERSION or DATE: 3/30/17
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: Was a fine assignment to do.
+
+<-s>: Just had to sit for a bit and rally think about what was going on.
+Looking back at the lecture was helpful, just remembering what the compareTo()
+method returns for words is what I struggled most with. This seems like for me
+a last resort algo, because it is too much work for what is needed to be done.
+
+********************************************************************************

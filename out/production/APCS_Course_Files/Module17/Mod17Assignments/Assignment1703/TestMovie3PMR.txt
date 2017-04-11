@@ -1,0 +1,15 @@
+PROJECT TITLE: TestMovie3 // TestMovie3.java
+PURPOSE OF PROJECT: Practice selection sort algorithm
+VERSION or DATE: 3/28/17
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: Was a fine assignment to do.
+
+<-s>: Had no problems, this sorting kinda seemed easy. But for some reason, my
+title sort wasn't working and it looked exactly like the studio one. In the end
+I ended up pasting the studio one and then just changing getStudio to getTitle
+and it worked fine.
+
+********************************************************************************
