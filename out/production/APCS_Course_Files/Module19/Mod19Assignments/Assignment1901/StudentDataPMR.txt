@@ -1,0 +1,13 @@
+PROJECT TITLE: StudentData // StudentData.java
+PURPOSE OF PROJECT: intro into error throwing
+VERSION or DATE: 4/17/17
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: I've had exposure to this before and wanted to use it before now, but now
+I know I can use it to make sure my programs work correctly.
+
+<-s>: nothing.
+
+********************************************************************************

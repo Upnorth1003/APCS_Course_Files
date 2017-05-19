@@ -1,0 +1,12 @@
+PROJECT TITLE: CandyMachine // CandyMachine.java
+PURPOSE OF PROJECT: testing and implementing error throwing
+VERSION or DATE: 4/17/17
+AUTHORS: Tyler Spurr
+
+**************************** P M R *********************************************
+
+<+s>: Program was easy and straight forward.
+
+<-s>: nothing.
+
+********************************************************************************
